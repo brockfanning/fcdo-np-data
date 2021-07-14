@@ -1,3 +1,7 @@
 From,To
+Nature of data points,Source details
+Source details,Frequency of observation
+Frequency of observation,Reporting type
+Reporting type,Age
 Age,Reference area
 Age,Degree of urbanisation
