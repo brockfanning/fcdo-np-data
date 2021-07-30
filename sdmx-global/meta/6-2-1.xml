@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
   <mes:Header>
-    <mes:ID>IREF1627658184</mes:ID>
+    <mes:ID>IREF1627660311</mes:ID>
     <mes:Test>True</mes:Test>
-    <mes:Prepared>2021-07-30T15:16:24</mes:Prepared>
+    <mes:Prepared>2021-07-30T15:51:51</mes:Prepared>
     <mes:Sender id="open-sdg_sdg-build@1-4-0"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -12,7 +12,7 @@
     </mes:Structure>
   </mes:Header>
   
-  <mes:MetadataSet structureRef="MDS1" setID="74ddf934-649e-47fe-a680-fe492330a2aa">
+  <mes:MetadataSet structureRef="MDS1" setID="f0758e22-a102-4b48-9545-14542d242bf3">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -183,7 +183,7 @@
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="en"><![CDATA[<p>The calculation of this indicator requires to have reliable information on the number of people with a handwashing facility where water and soap or detergent and total population. The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents' answers.</p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>The calculation of this indicator requires to have reliable information on the number of people with a handwashing facility where water and soap or detergent and total population. The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents&#39; answers.</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -263,7 +263,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="f9707cee-56cf-44d1-b9cf-69c6fb7fa947">
+  <mes:MetadataSet structureRef="MDS1" setID="759a1386-cad3-4fd2-ac7e-60b31eec4030">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -434,7 +434,7 @@
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="en"><![CDATA[<p>The calculation of this indicator requires to have reliable information on the number of people with a handwashing facility where water and soap or detergent and total population. The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents' answers.</p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>The calculation of this indicator requires to have reliable information on the number of people with a handwashing facility where water and soap or detergent and total population. The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents&#39; answers.</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -514,7 +514,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="2cb5539f-6e02-4eec-8458-8d982ba8609f">
+  <mes:MetadataSet structureRef="MDS1" setID="0398db51-57c5-4dec-86f2-b81b9dbbcc6f">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -685,7 +685,7 @@
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="en"><![CDATA[<p>The calculation of this indicator requires to have reliable information on the number of people with a handwashing facility where water and soap or detergent and total population. The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents' answers.</p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>The calculation of this indicator requires to have reliable information on the number of people with a handwashing facility where water and soap or detergent and total population. The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents&#39; answers.</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         

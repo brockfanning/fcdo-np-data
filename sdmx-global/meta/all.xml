@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
   <mes:Header>
-    <mes:ID>IREF1627658184</mes:ID>
+    <mes:ID>IREF1627660311</mes:ID>
     <mes:Test>True</mes:Test>
-    <mes:Prepared>2021-07-30T15:16:24</mes:Prepared>
+    <mes:Prepared>2021-07-30T15:51:51</mes:Prepared>
     <mes:Sender id="open-sdg_sdg-build@1-4-0"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -12,7 +12,7 @@
     </mes:Structure>
   </mes:Header>
   
-  <mes:MetadataSet structureRef="MDS1" setID="c1abf618-c17c-4de1-a35a-b6c86cba339b">
+  <mes:MetadataSet structureRef="MDS1" setID="31e7a2be-4bdc-4026-b284-f99c328c185b">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -183,7 +183,7 @@
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="en"><![CDATA[<p>The calculation of this indicator requires to have reliable information on the number of people with an improved drinking water source on premises, whose source water was tested and free of E. coli and available when needed and total population. The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents' answers.</p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>The calculation of this indicator requires to have reliable information on the number of people with an improved drinking water source on premises, whose source water was tested and free of E. coli and available when needed and total population. The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents&#39; answers.</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -263,7 +263,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="d9e932e5-c228-4576-8816-869989e4c57d">
+  <mes:MetadataSet structureRef="MDS1" setID="4d9978d2-3a8c-4abf-af97-58df1995046a">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -428,7 +428,7 @@
         
         <gen:ReportedAttribute id="RATIONALE">
           
-          <com:Text xml:lang="en"><![CDATA[<p>Having a skilled health care provider at the time of child birth is an important lifesaving intervention for both women and new-borns. Not having access to this key assistance is detrimental to women's and new-borns health because it could cause the death of the women and/or the new born or long lasting morbidity Achieving universal coverage for this indicator is therefore essential for reducing maternal and new born mortality.</p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>Having a skilled health care provider at the time of child birth is an important lifesaving intervention for both women and new-borns. Not having access to this key assistance is detrimental to women&#39;s and new-borns health because it could cause the death of the women and/or the new born or long lasting morbidity Achieving universal coverage for this indicator is therefore essential for reducing maternal and new born mortality.</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -514,7 +514,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="0959ab14-3da1-45da-b6b5-c8542c61aad8">
+  <mes:MetadataSet structureRef="MDS1" setID="d8917a3b-5ed0-477d-a297-73e93e83e6ec">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -685,7 +685,7 @@
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="en"><![CDATA[<p>The calculation of this indicator requires to have reliable information on in-scope individuals between the age group 15 – 49 years using internet and the total number of in-scope individuals. The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents' answers.</p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>The calculation of this indicator requires to have reliable information on in-scope individuals between the age group 15 – 49 years using internet and the total number of in-scope individuals. The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents&#39; answers.</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -765,7 +765,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="2192caeb-0fbb-42da-89dc-675d50c6d116">
+  <mes:MetadataSet structureRef="MDS1" setID="edb0927b-963c-487c-908b-057d4d6bb5f8">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -936,7 +936,7 @@
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="en"><![CDATA[<p>The calculation of this indicator requires to have reliable information on total number of children who at age 12-23 months had received all basic vaccinations. The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents' answers.</p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>The calculation of this indicator requires to have reliable information on total number of children who at age 12-23 months had received all basic vaccinations. The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents&#39; answers.</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1016,7 +1016,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="55350f92-e44e-491c-886a-6e578975dc85">
+  <mes:MetadataSet structureRef="MDS1" setID="b907a3ae-3e40-4fec-8e5c-c1dccf9d9310">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -1187,7 +1187,7 @@
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="en"><![CDATA[<p>The calculation of this indicator requires to have reliable information on total number of children who at age 12-23 months had received all basic vaccinations. The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents' answers.</p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>The calculation of this indicator requires to have reliable information on total number of children who at age 12-23 months had received all basic vaccinations. The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents&#39; answers.</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1267,7 +1267,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="094e9a05-5f03-4672-a9da-1e5978dcdbe9">
+  <mes:MetadataSet structureRef="MDS1" setID="c2aa1ac9-77e1-4788-9edf-5e7409384a4b">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -1438,7 +1438,7 @@
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="en"><![CDATA[<p>The calculation of this indicator requires to have reliable information on total number of children who at age 12-23 months had received all basic vaccinations. The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents' answers.</p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>The calculation of this indicator requires to have reliable information on total number of children who at age 12-23 months had received all basic vaccinations. The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents&#39; answers.</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1518,7 +1518,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="b1ebac6b-8fc1-4abf-a84b-9451487ae37d">
+  <mes:MetadataSet structureRef="MDS1" setID="b51fb56e-5402-4ed0-9f32-9ccb7f3cd891">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -1689,7 +1689,7 @@
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="en"><![CDATA[<p>The calculation of this indicator requires to have reliable information on total number of children who at age 12-23 months had received all basic vaccinations. The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents' answers.</p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>The calculation of this indicator requires to have reliable information on total number of children who at age 12-23 months had received all basic vaccinations. The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents&#39; answers.</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -1769,7 +1769,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="865153da-2a93-41bb-991c-aad341d8d7dd">
+  <mes:MetadataSet structureRef="MDS1" setID="46d1aaa7-99d5-4db6-b411-77b4662127a0">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -1940,7 +1940,7 @@
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="en"><![CDATA[<p>The calculation of this indicator requires to have reliable information on total number of children who at age 12-23 months had received all basic vaccinations. The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents' answers.</p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>The calculation of this indicator requires to have reliable information on total number of children who at age 12-23 months had received all basic vaccinations. The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents&#39; answers.</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2020,7 +2020,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="b37e72c8-9e37-453e-8334-461638917df2">
+  <mes:MetadataSet structureRef="MDS1" setID="d7135440-85ae-4299-bdf0-97d22c6fa808">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -2191,7 +2191,7 @@
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="en"><![CDATA[<p>The calculation of this indicator requires to have reliable information death during the first 28 days of life (0-27 days) and total live births in given period of time. The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents' answers.</p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>The calculation of this indicator requires to have reliable information death during the first 28 days of life (0-27 days) and total live births in given period of time. The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents&#39; answers.</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2271,7 +2271,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="367f69c3-fd55-44c1-bae8-69aa24bd2609">
+  <mes:MetadataSet structureRef="MDS1" setID="38e59ba1-d8e7-4a33-b4e4-98d501fb698d">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -2442,7 +2442,7 @@
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="en"><![CDATA[<p>The calculation of this indicator requires to have reliable information death during the first 28 days of life (0-27 days) and total live births in given period of time. The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents' answers.</p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>The calculation of this indicator requires to have reliable information death during the first 28 days of life (0-27 days) and total live births in given period of time. The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents&#39; answers.</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2522,7 +2522,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="6b917926-7220-453c-aa6c-9543b5ef29f9">
+  <mes:MetadataSet structureRef="MDS1" setID="e60aa6cc-68be-4e2e-b915-71a26c786b8e">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -2693,7 +2693,7 @@
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="en"><![CDATA[<p>The calculation of this indicator requires to have reliable information on number of live births to women aged 15-19 years. The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents' answers.</p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>The calculation of this indicator requires to have reliable information on number of live births to women aged 15-19 years. The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents&#39; answers.</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -2773,7 +2773,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="48a2992e-4b35-4b09-a8fb-479e8a498e59">
+  <mes:MetadataSet structureRef="MDS1" setID="986cd1c7-dc0f-4cba-b725-813af9b01b19">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -2944,7 +2944,7 @@
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="en"><![CDATA[<p>The calculation of this indicator requires to have reliable information on population having secure access to electricity. The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents' answers.</p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>The calculation of this indicator requires to have reliable information on population having secure access to electricity. The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents&#39; answers.</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -3024,7 +3024,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="8fc4f39f-fe8f-47ba-b2e4-85f8e05f2d3f">
+  <mes:MetadataSet structureRef="MDS1" setID="d22f9610-d0f3-4bd0-aaa9-52a4339718ea">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -3153,7 +3153,7 @@
         
         <gen:ReportedAttribute id="COLL_METHOD">
           
-          <com:Text xml:lang="en"><![CDATA[<p>The goal of sampling design was to achieve high level of efficiency of employment/unemployment estimates at the domain level (14 domains) considered as the primary strata with representative of 18,000 households. </p><p>In deciding on the sampling design, the characteristics of the frame was evaluated, foremost, normality of the distribution of auxiliary information (number of households) that was to be used in stratification and in sample selection. Kolmogorov-Smirnov test provided enough evidence against the assumption of normality of the distribution of number of households in each of the PSUs (p&lt;0.01) among the domains. In fact, there was adequate evidence that the distribution was skewed. There were too few PSUs with large number of households, and most of the PSUs had small number of households. Thus, stratification was necessary in this population. However, simple proportional allocation could easily lead to oversampling of the stratum with more elements and under sampling in the stratum with less elements. </p><p>The problem of skewed population was addressed through stratification of the PSUs in each domain into three following the Lavallee-Hidiroglou (LH) algorithm. This stratification method jointly minimizes the total coefficient of variation and the sample size in the choice of stratum boundaries and in the determination of sampling rate per stratum. Further accounting for the possible discrepancy between the stratification variables (number of households) and the target variables (e.g., number of employed individuals), modified LH Algorithm is used. Modified LH Algorithm used to identify stratum boundaries of the three strata. Stratum 1 and Stratum 2 are smaller than Stratum 3, and are called the “take some” strata. Stratum 3, comprising of “bigger” PSUs where big is defined in terms of number of households, is also called “take all” stratum. From all the strata, samples were drawn from probability proportional to size (PPS) except in the areas where all the PSUs were taken in the sample. Regarding the sampling from stratum 3, the "take all" criterion was followed in all the rural areas and urban areas of province 3 only.</p><p>The NLFS II questionnaire was developed on the basis of an ILO recommendation including core and supplementary modules comprising 130 questions in eight sections. This provided guidelines for developing the NLFS III questionnaire. The NLFS III questionnaire was substantially expanded to 168 questions in fourteen sections. The flow of questionnaire structure was organized in such a way that respondents' burden in the survey can be minimized. </p><p>For the sake of maintaining comparability and further use of disaggregated statistics, many questions from housing section were aligned with population and housing census. However, the change in the definition of employment implies that some indicators from this survey will not be comparable with the indicators from the previous rounds. In addition, some changes were made to address contemporary issues such as short-term returnees, volunteer work and forced labour situation in the country. The questionnaire was designed to capture data on general household information, current activities, current working hour, usual working hour, unemployment, past employment, and absentees. The sections on household information and absentee information were asked only to the head of household. </p><p>Branch of economic activities (industry) and occupation were open ended and they were later coded at the 4th digit level. Some of the questions were intended to provide statistics for monitoring the selected Sustainable Development Goals (SDGs). The flow chat describing the different paths of the questionnaire is attached as Annex IV. </p><p>Similar to NLFS I and NLFSII, work activities of children aged 5 and above were also collected in NLFS III. This included all forms of work i.e. work for pay, work for own final use and volunteer work. </p><p>Draft questionnaire was prepared with technical input from the ILO consultant and the household survey team of the CBS. The questionnaire was further modified after consultations with technical committee representing various interest groups. The questionnaire thereafter was pre-tested several times and revised intensively in accordance to the feedback received from each pre-test. The pre-tests were carried out to cover a wide range of areas and included different ecological belts and urban/rural areas. The questionnaire was finalized and endorsed by a Steering Committee chaired by the Vice-Chairman of National Planning Commission (NPC). The questionnaire in the final Nepali version was translated into English to ensure the same understandings for foreign users. Interviewer’s manual in Nepali language was developed which included concepts, definitions, description of each question and fieldwork procedures, etc. to ensure that quality information was collected.</p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>The goal of sampling design was to achieve high level of efficiency of employment/unemployment estimates at the domain level (14 domains) considered as the primary strata with representative of 18,000 households. </p><p>In deciding on the sampling design, the characteristics of the frame was evaluated, foremost, normality of the distribution of auxiliary information (number of households) that was to be used in stratification and in sample selection. Kolmogorov-Smirnov test provided enough evidence against the assumption of normality of the distribution of number of households in each of the PSUs (p&lt;0.01) among the domains. In fact, there was adequate evidence that the distribution was skewed. There were too few PSUs with large number of households, and most of the PSUs had small number of households. Thus, stratification was necessary in this population. However, simple proportional allocation could easily lead to oversampling of the stratum with more elements and under sampling in the stratum with less elements. </p><p>The problem of skewed population was addressed through stratification of the PSUs in each domain into three following the Lavallee-Hidiroglou (LH) algorithm. This stratification method jointly minimizes the total coefficient of variation and the sample size in the choice of stratum boundaries and in the determination of sampling rate per stratum. Further accounting for the possible discrepancy between the stratification variables (number of households) and the target variables (e.g., number of employed individuals), modified LH Algorithm is used. Modified LH Algorithm used to identify stratum boundaries of the three strata. Stratum 1 and Stratum 2 are smaller than Stratum 3, and are called the “take some” strata. Stratum 3, comprising of “bigger” PSUs where big is defined in terms of number of households, is also called “take all” stratum. From all the strata, samples were drawn from probability proportional to size (PPS) except in the areas where all the PSUs were taken in the sample. Regarding the sampling from stratum 3, the "take all" criterion was followed in all the rural areas and urban areas of province 3 only.</p><p>The NLFS II questionnaire was developed on the basis of an ILO recommendation including core and supplementary modules comprising 130 questions in eight sections. This provided guidelines for developing the NLFS III questionnaire. The NLFS III questionnaire was substantially expanded to 168 questions in fourteen sections. The flow of questionnaire structure was organized in such a way that respondents&#39; burden in the survey can be minimized. </p><p>For the sake of maintaining comparability and further use of disaggregated statistics, many questions from housing section were aligned with population and housing census. However, the change in the definition of employment implies that some indicators from this survey will not be comparable with the indicators from the previous rounds. In addition, some changes were made to address contemporary issues such as short-term returnees, volunteer work and forced labour situation in the country. The questionnaire was designed to capture data on general household information, current activities, current working hour, usual working hour, unemployment, past employment, and absentees. The sections on household information and absentee information were asked only to the head of household. </p><p>Branch of economic activities (industry) and occupation were open ended and they were later coded at the 4th digit level. Some of the questions were intended to provide statistics for monitoring the selected Sustainable Development Goals (SDGs). The flow chat describing the different paths of the questionnaire is attached as Annex IV. </p><p>Similar to NLFS I and NLFSII, work activities of children aged 5 and above were also collected in NLFS III. This included all forms of work i.e. work for pay, work for own final use and volunteer work. </p><p>Draft questionnaire was prepared with technical input from the ILO consultant and the household survey team of the CBS. The questionnaire was further modified after consultations with technical committee representing various interest groups. The questionnaire thereafter was pre-tested several times and revised intensively in accordance to the feedback received from each pre-test. The pre-tests were carried out to cover a wide range of areas and included different ecological belts and urban/rural areas. The questionnaire was finalized and endorsed by a Steering Committee chaired by the Vice-Chairman of National Planning Commission (NPC). The questionnaire in the final Nepali version was translated into English to ensure the same understandings for foreign users. Interviewer’s manual in Nepali language was developed which included concepts, definitions, description of each question and fieldwork procedures, etc. to ensure that quality information was collected.</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -3195,7 +3195,7 @@
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="en"><![CDATA[<p>The calculation of this indicator requires to have reliable information on both the labour market status and the participation in education or training of young persons. The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents' answers.  </p><p>In terms of the analysis of the indicator, in order to avoid misinterpreting it, it is important to bear in mind that it is composed of two different sub-groups (unemployed youth not in education or training and youth outside the labour force not in education or training). The prevalence and composition of each sub-group would have policy implications, and thus should also be considered when analysing the NEET rate.</p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>The calculation of this indicator requires to have reliable information on both the labour market status and the participation in education or training of young persons. The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents&#39; answers.  </p><p>In terms of the analysis of the indicator, in order to avoid misinterpreting it, it is important to bear in mind that it is composed of two different sub-groups (unemployed youth not in education or training and youth outside the labour force not in education or training). The prevalence and composition of each sub-group would have policy implications, and thus should also be considered when analysing the NEET rate.</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -3275,7 +3275,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="fadfbcc7-c2e6-4f6e-ace2-96bef1111e24">
+  <mes:MetadataSet structureRef="MDS1" setID="2267cc9a-d574-4e27-b175-d8ad6b63f36f">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -3446,7 +3446,7 @@
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="en"><![CDATA[<p>The calculation of this indicator requires to have reliable information on number of children in the relevant age group who participate in an organized learning programme and total number of children of same age range. The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents' answers.</p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>The calculation of this indicator requires to have reliable information on number of children in the relevant age group who participate in an organized learning programme and total number of children of same age range. The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents&#39; answers.</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -3526,7 +3526,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="388a56e7-8e76-42d0-86b4-c087e46784d7">
+  <mes:MetadataSet structureRef="MDS1" setID="b23d658b-380e-4207-a94c-974c6e21ced8">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -3697,7 +3697,7 @@
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="en"><![CDATA[<p>The calculation of this indicator requires to have reliable information on the number of people using clean fuels and technologies for cooking, heating and lighting divided by total population reporting that any cooking, heating or lighting. The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents' answers.</p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>The calculation of this indicator requires to have reliable information on the number of people using clean fuels and technologies for cooking, heating and lighting divided by total population reporting that any cooking, heating or lighting. The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents&#39; answers.</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -3777,7 +3777,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="1385ccb3-0bb4-4291-ac0c-69d4679c0a27">
+  <mes:MetadataSet structureRef="MDS1" setID="625b562a-9072-44f5-bb86-b4c515b2ceb7">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -3948,7 +3948,7 @@
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="en"><![CDATA[<p>The calculation of this indicator requires to have reliable information on the number of people using clean fuels and technologies for cooking, heating and lighting divided by total population reporting that any cooking, heating or lighting. The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents' answers.</p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>The calculation of this indicator requires to have reliable information on the number of people using clean fuels and technologies for cooking, heating and lighting divided by total population reporting that any cooking, heating or lighting. The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents&#39; answers.</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -4028,7 +4028,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="f9c7f37a-c0a7-46f7-a868-e981504c0a2f">
+  <mes:MetadataSet structureRef="MDS1" setID="c96026f2-8394-411e-b722-63e17f178ef3">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -4199,7 +4199,7 @@
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="en"><![CDATA[<p>The calculation of this indicator requires to have reliable information on the number of people using clean fuels and technologies for cooking, heating and lighting divided by total population reporting that any cooking, heating or lighting. The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents' answers.</p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>The calculation of this indicator requires to have reliable information on the number of people using clean fuels and technologies for cooking, heating and lighting divided by total population reporting that any cooking, heating or lighting. The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents&#39; answers.</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -4279,7 +4279,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="56b3ced5-a1a4-4ea2-b18e-5ce0b1be6094">
+  <mes:MetadataSet structureRef="MDS1" setID="52f9f000-d876-4c98-920b-117db4ead66c">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -4450,7 +4450,7 @@
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="en"><![CDATA[<p>The calculation of this indicator requires to have reliable information on total number of in-scope individuals (15 to 24 years) who have carried out each activity in the past 3 months, regardless of where that activity took place and total number of in-scope individuals. The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents' answers.</p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>The calculation of this indicator requires to have reliable information on total number of in-scope individuals (15 to 24 years) who have carried out each activity in the past 3 months, regardless of where that activity took place and total number of in-scope individuals. The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents&#39; answers.</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -4530,7 +4530,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="a67b95b9-f6ca-438b-a3d7-87657252c858">
+  <mes:MetadataSet structureRef="MDS1" setID="c272391d-5a6b-4318-9258-9876744d0e6f">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -4701,7 +4701,7 @@
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="en"><![CDATA[<p>The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents' answers.</p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents&#39; answers.</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -4781,7 +4781,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="513291e3-92de-4c7e-afe0-d272f4c3f270">
+  <mes:MetadataSet structureRef="MDS1" setID="3c9f87fb-3468-4785-b0e3-956df696e84e">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -4952,7 +4952,7 @@
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="en"><![CDATA[<p>The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents' answers.</p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents&#39; answers.</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -5032,7 +5032,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="8609f71a-2efc-4e0b-a568-4c86d78af3ef">
+  <mes:MetadataSet structureRef="MDS1" setID="af83c9ee-7751-426f-933e-c2cbdf9916f9">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -5203,7 +5203,7 @@
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="en"><![CDATA[<p>The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents' answers.</p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents&#39; answers.</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -5283,7 +5283,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="b56a7595-cf18-4eeb-8f27-583bb383ceba">
+  <mes:MetadataSet structureRef="MDS1" setID="aa481b12-5268-4574-b5d7-2f0c697835f3">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -5454,7 +5454,7 @@
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="en"><![CDATA[<p>The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents' answers.</p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents&#39; answers.</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -5534,7 +5534,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="2cf4136f-5734-4765-a471-c6f2281307ca">
+  <mes:MetadataSet structureRef="MDS1" setID="d64965c9-faec-475c-9aa4-bd02e1684a23">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -5705,7 +5705,7 @@
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="en"><![CDATA[<p>The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents' answers.</p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents&#39; answers.</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -5785,7 +5785,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="18605580-e7d7-4d24-a5be-437f9accf2ea">
+  <mes:MetadataSet structureRef="MDS1" setID="d49b1325-a830-4441-a33f-897c22a76179">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -5956,7 +5956,7 @@
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="en"><![CDATA[<p>The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents' answers.</p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents&#39; answers.</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -6036,7 +6036,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="886700cf-e833-499a-b021-ee3fff9c7e2e">
+  <mes:MetadataSet structureRef="MDS1" setID="6b61b03f-7078-47bd-8d94-8569d59f800b">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -6207,7 +6207,7 @@
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="en"><![CDATA[<p>The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents' answers.</p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents&#39; answers.</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -6287,7 +6287,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="cc49e161-ba34-4b06-bd0d-d6047202d683">
+  <mes:MetadataSet structureRef="MDS1" setID="252b99be-3e09-4c1c-9a7f-654ab0ce43d5">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -6458,7 +6458,7 @@
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="en"><![CDATA[<p>The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents' answers.</p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents&#39; answers.</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -6538,7 +6538,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="f7ea618b-8652-412b-a05a-ee627ea75fb1">
+  <mes:MetadataSet structureRef="MDS1" setID="4949f5ea-fccf-4b12-a020-97f52eedd0e3">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -6709,7 +6709,7 @@
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="en"><![CDATA[<p>The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents' answers.</p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents&#39; answers.</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -6789,7 +6789,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="f2322db5-8d0b-4d64-b45f-ea3e751a8e6c">
+  <mes:MetadataSet structureRef="MDS1" setID="7ad46296-6954-4c13-860e-c44cc6e9d599">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -6960,7 +6960,7 @@
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="en"><![CDATA[<p>The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents' answers.</p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents&#39; answers.</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -7040,7 +7040,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="1866182a-2d63-44d9-8a0a-6a11b9578855">
+  <mes:MetadataSet structureRef="MDS1" setID="ba6d760e-b0eb-47fc-8188-4d7c0404f1ff">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -7211,7 +7211,7 @@
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="en"><![CDATA[<p>The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents' answers.</p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents&#39; answers.</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -7291,7 +7291,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="b8320cc7-5756-406a-8260-8d139774139e">
+  <mes:MetadataSet structureRef="MDS1" setID="76ba4702-53ce-43fa-a464-70576e868ed9">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -7462,7 +7462,7 @@
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="en"><![CDATA[<p>The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents' answers.</p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents&#39; answers.</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -7542,7 +7542,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="eff72aba-8f6b-4f9f-a22c-fb20467c7e4a">
+  <mes:MetadataSet structureRef="MDS1" setID="3d2687c1-ab57-4f83-9396-96ebf235ba0f">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -7713,7 +7713,7 @@
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="en"><![CDATA[<p>The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents' answers.</p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents&#39; answers.</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -7793,7 +7793,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="17a80382-7277-488e-b36e-145c09942259">
+  <mes:MetadataSet structureRef="MDS1" setID="8bffafcb-70cf-469b-a01c-214d20e9b9cc">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -7964,7 +7964,7 @@
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="en"><![CDATA[<p>The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents' answers.</p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents&#39; answers.</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -8044,7 +8044,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="45ccf393-3a14-4827-bc0e-8a7f2c1eba57">
+  <mes:MetadataSet structureRef="MDS1" setID="f5327bda-a171-45cb-a7f1-a38f39f74405">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -8215,7 +8215,7 @@
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="en"><![CDATA[<p>The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents' answers.</p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents&#39; answers.</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -8295,7 +8295,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="0ad609a1-ed93-450a-9456-46a28188ccbb">
+  <mes:MetadataSet structureRef="MDS1" setID="715ca099-5e32-47da-82e8-15d1718a1ef1">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -8466,7 +8466,7 @@
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="en"><![CDATA[<p>The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents' answers.</p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents&#39; answers.</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -8546,7 +8546,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="8a6251b6-185c-4250-a792-a5321abc61f3">
+  <mes:MetadataSet structureRef="MDS1" setID="6151b829-2271-405c-a09e-8726ce6513e2">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -8717,7 +8717,7 @@
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="en"><![CDATA[<p>The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents' answers.</p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents&#39; answers.</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -8797,7 +8797,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="43421e76-b003-463b-85c6-573bffa86107">
+  <mes:MetadataSet structureRef="MDS1" setID="e792275d-9e0b-4b8a-b431-467beb79f60c">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -8968,7 +8968,7 @@
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="en"><![CDATA[<p>The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents' answers.</p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents&#39; answers.</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -9048,7 +9048,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="e3157fa3-2f7a-413a-abf1-a1e1af296395">
+  <mes:MetadataSet structureRef="MDS1" setID="e767b523-2f5d-4719-aa2d-0e606199fd4a">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -9219,7 +9219,7 @@
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="en"><![CDATA[<p>The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents' answers.</p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents&#39; answers.</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -9299,7 +9299,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="0b772e29-381c-4464-b45b-b1b9ddf2241d">
+  <mes:MetadataSet structureRef="MDS1" setID="02add45e-8e6f-4fe8-91f0-874e4a545585">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -9470,7 +9470,7 @@
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="en"><![CDATA[<p>The calculation of this indicator requires to have reliable information on number of children aged 36 to 59 months who are developmentally on track in health, learning and psychosocial well-being and total number of children aged 36 to 59 months. The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents' answers.</p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>The calculation of this indicator requires to have reliable information on number of children aged 36 to 59 months who are developmentally on track in health, learning and psychosocial well-being and total number of children aged 36 to 59 months. The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents&#39; answers.</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -9550,7 +9550,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="d3dac354-886d-4c59-a794-533d3d69ec15">
+  <mes:MetadataSet structureRef="MDS1" setID="6dd7534f-3477-4bb6-b680-f904432cf0d1">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -9721,7 +9721,7 @@
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="en"><![CDATA[<p>The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents' answers.</p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents&#39; answers.</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -9801,7 +9801,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="168a103c-4e32-4e1c-84e6-75300d0e001c">
+  <mes:MetadataSet structureRef="MDS1" setID="e4891a2b-aa3e-4b33-a504-bf891372d49b">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -9972,7 +9972,7 @@
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="en"><![CDATA[<p>The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents' answers.</p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents&#39; answers.</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -10052,7 +10052,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="74ddf934-649e-47fe-a680-fe492330a2aa">
+  <mes:MetadataSet structureRef="MDS1" setID="f0758e22-a102-4b48-9545-14542d242bf3">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -10223,7 +10223,7 @@
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="en"><![CDATA[<p>The calculation of this indicator requires to have reliable information on the number of people with a handwashing facility where water and soap or detergent and total population. The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents' answers.</p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>The calculation of this indicator requires to have reliable information on the number of people with a handwashing facility where water and soap or detergent and total population. The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents&#39; answers.</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -10303,7 +10303,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="f9707cee-56cf-44d1-b9cf-69c6fb7fa947">
+  <mes:MetadataSet structureRef="MDS1" setID="759a1386-cad3-4fd2-ac7e-60b31eec4030">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -10474,7 +10474,7 @@
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="en"><![CDATA[<p>The calculation of this indicator requires to have reliable information on the number of people with a handwashing facility where water and soap or detergent and total population. The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents' answers.</p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>The calculation of this indicator requires to have reliable information on the number of people with a handwashing facility where water and soap or detergent and total population. The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents&#39; answers.</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -10554,7 +10554,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="2cb5539f-6e02-4eec-8458-8d982ba8609f">
+  <mes:MetadataSet structureRef="MDS1" setID="0398db51-57c5-4dec-86f2-b81b9dbbcc6f">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -10725,7 +10725,7 @@
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="en"><![CDATA[<p>The calculation of this indicator requires to have reliable information on the number of people with a handwashing facility where water and soap or detergent and total population. The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents' answers.</p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>The calculation of this indicator requires to have reliable information on the number of people with a handwashing facility where water and soap or detergent and total population. The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents&#39; answers.</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -10805,7 +10805,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="a4b3b940-d22d-42ed-ba0a-90df20bd8076">
+  <mes:MetadataSet structureRef="MDS1" setID="fe5d3690-0f9a-4420-9fe7-3edef435b202">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -10976,7 +10976,7 @@
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="en"><![CDATA[<p>The calculation of this indicator requires to have reliable information on women who are currently using a modern method of contraception and number of women using any method of contraception or are having an unmet need for family planning. The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents' answers.</p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>The calculation of this indicator requires to have reliable information on women who are currently using a modern method of contraception and number of women using any method of contraception or are having an unmet need for family planning. The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents&#39; answers.</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -11056,7 +11056,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="5515ff06-afb7-44bf-8b25-2e83544008f0">
+  <mes:MetadataSet structureRef="MDS1" setID="90e8881d-f004-4811-afa8-ebe6a5e65292">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -11233,7 +11233,7 @@
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="en"><![CDATA[<p>The calculation of this indicator requires to have reliable information on population using improved sanitation facilities and number of household members. The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents' answers.</p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>The calculation of this indicator requires to have reliable information on population using improved sanitation facilities and number of household members. The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents&#39; answers.</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -11313,7 +11313,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="3f1f0c51-7c23-4439-ab4a-3b91023495a1">
+  <mes:MetadataSet structureRef="MDS1" setID="991bd586-76c3-40f2-b55c-d37f93bc76c8">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -11490,7 +11490,7 @@
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="en"><![CDATA[<p>The calculation of this indicator requires to have reliable information on population using improved sanitation facilities and number of household members. The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents' answers.</p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>The calculation of this indicator requires to have reliable information on population using improved sanitation facilities and number of household members. The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents&#39; answers.</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -11570,7 +11570,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="f6f680a9-1b1e-41ee-8ce2-436242ff64d1">
+  <mes:MetadataSet structureRef="MDS1" setID="495ecd58-f711-4490-b187-19d6cc5016d5">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -11747,7 +11747,7 @@
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="en"><![CDATA[<p>The calculation of this indicator requires to have reliable information on population using improved sanitation facilities and number of household members. The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents' answers.</p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>The calculation of this indicator requires to have reliable information on population using improved sanitation facilities and number of household members. The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents&#39; answers.</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -11827,7 +11827,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="482e73c1-723c-4c65-ace3-fe2b96a9aa3f">
+  <mes:MetadataSet structureRef="MDS1" setID="be31dc40-f0da-4fcb-b974-b7cbf7117103">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -11998,7 +11998,7 @@
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="en"><![CDATA[<p>The calculation of this indicator requires to have reliable information on total deaths of children under 5 years and total live births in given period of time. The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents' answers.</p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>The calculation of this indicator requires to have reliable information on total deaths of children under 5 years and total live births in given period of time. The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents&#39; answers.</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -12078,7 +12078,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="e40dd378-11b2-46d1-83cf-2aee1e12807b">
+  <mes:MetadataSet structureRef="MDS1" setID="988195e9-85c6-44cd-8bc3-3b2bcf848d37">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -12249,7 +12249,7 @@
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="en"><![CDATA[<p>The calculation of this indicator requires to have reliable information on total deaths of children under 5 years and total live births in given period of time. The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents' answers.</p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>The calculation of this indicator requires to have reliable information on total deaths of children under 5 years and total live births in given period of time. The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents&#39; answers.</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -12329,7 +12329,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="cf2412b4-15f3-496d-9d0f-88f657919209">
+  <mes:MetadataSet structureRef="MDS1" setID="b30961c8-989e-4394-9877-4716e48da3d5">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -12500,7 +12500,7 @@
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="en"><![CDATA[<p>The calculation of this indicator requires to have reliable information on total deaths of children under 5 years and total live births in given period of time. The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents' answers.</p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>The calculation of this indicator requires to have reliable information on total deaths of children under 5 years and total live births in given period of time. The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents&#39; answers.</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -12580,7 +12580,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="8baadf47-bf8a-4d6e-94cd-85731a197851">
+  <mes:MetadataSet structureRef="MDS1" setID="7d2dc3ad-ff2d-4a33-b0e5-61425cf5dbef">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -12751,7 +12751,7 @@
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="en"><![CDATA[<p>The calculation of this indicator requires to have reliable information on total deaths of children under 5 years and total live births in given period of time. The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents' answers.</p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>The calculation of this indicator requires to have reliable information on total deaths of children under 5 years and total live births in given period of time. The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents&#39; answers.</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -12831,7 +12831,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="4a4ec818-06c2-4270-a824-05644605c44d">
+  <mes:MetadataSet structureRef="MDS1" setID="172988d5-e69c-4c41-bf46-25358926502f">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -13002,7 +13002,7 @@
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="en"><![CDATA[<p>The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents' answers.</p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents&#39; answers.</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -13082,7 +13082,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="693c4890-6e88-4e99-98b9-e07df9999ccd">
+  <mes:MetadataSet structureRef="MDS1" setID="1c1bdb53-2321-472f-8600-bec3b35369f0">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -13253,7 +13253,7 @@
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="en"><![CDATA[<p>The calculation of this indicator requires to have reliable information on total number of in-scope individuals who own a mobile phone and total number of in-scope individuals. The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents' answers.</p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>The calculation of this indicator requires to have reliable information on total number of in-scope individuals who own a mobile phone and total number of in-scope individuals. The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents&#39; answers.</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -13333,7 +13333,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="4a5c1a36-e9e6-49b0-af9a-a2a2113a6556">
+  <mes:MetadataSet structureRef="MDS1" setID="e1e3696c-389a-4a59-b84d-8008499709b3">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -13504,7 +13504,7 @@
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="en"><![CDATA[<p>The calculation of this indicator requires to have reliable information on number of births registered within a given period of time after birth in a given calendar year and total number of births in a given calendar year. The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents' answers.</p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>The calculation of this indicator requires to have reliable information on number of births registered within a given period of time after birth in a given calendar year and total number of births in a given calendar year. The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents&#39; answers.</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -13584,7 +13584,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="1ee1c077-8046-4eef-8cd6-bdd31c6c802b">
+  <mes:MetadataSet structureRef="MDS1" setID="1902d2fa-67ec-4b5a-88d7-34f3f83221ed">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -13755,7 +13755,7 @@
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="en"><![CDATA[<p>The calculation of this indicator requires to have reliable information on total numbers of daily and non-daily users of tobacco from the age group 15-49 years and total number of men and women age 15-49 years. The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents' answers.</p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>The calculation of this indicator requires to have reliable information on total numbers of daily and non-daily users of tobacco from the age group 15-49 years and total number of men and women age 15-49 years. The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents&#39; answers.</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -13835,7 +13835,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="653fc6f2-99bc-467d-9c62-e7b787950e4f">
+  <mes:MetadataSet structureRef="MDS1" setID="8ff7eeaa-2cc3-4b7a-ab83-a68d23a8fd24">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -14006,7 +14006,7 @@
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="en"><![CDATA[<p>The calculation of this indicator requires to have reliable information on children aged 1-14 years who experienced psychological aggression or physical punishment and number of children age 1-14 years. The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents' answers.</p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>The calculation of this indicator requires to have reliable information on children aged 1-14 years who experienced psychological aggression or physical punishment and number of children age 1-14 years. The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents&#39; answers.</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -14086,7 +14086,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="ab1bef7f-e0d4-490b-a018-e3516cbd49b8">
+  <mes:MetadataSet structureRef="MDS1" setID="4981e9c9-2731-44fc-ac85-3619f2ed57d4">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -14257,7 +14257,7 @@
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="en"><![CDATA[<p>The calculation of this indicator requires to have reliable information on number of household members living in households receiving specific types of support in the last 3 months. The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents' answers.</p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>The calculation of this indicator requires to have reliable information on number of household members living in households receiving specific types of support in the last 3 months. The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents&#39; answers.</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -14337,7 +14337,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="b095d331-538d-4d68-b36a-0416aa70e382">
+  <mes:MetadataSet structureRef="MDS1" setID="2d71835b-197b-4d1e-adfb-c4e241d3f058">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -14508,7 +14508,7 @@
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="en"><![CDATA[<p>The calculation of this indicator requires to have reliable information on number of household members living in households receiving specific types of support in the last 3 months. The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents' answers.</p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>The calculation of this indicator requires to have reliable information on number of household members living in households receiving specific types of support in the last 3 months. The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents&#39; answers.</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -14588,7 +14588,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="25a01e6b-c6b9-4d1d-8266-99759f08a747">
+  <mes:MetadataSet structureRef="MDS1" setID="ec202510-daed-4cd2-9b29-97fe94ebaa8d">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -14759,7 +14759,7 @@
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="en"><![CDATA[<p>The calculation of this indicator requires to have reliable information on number of household members living in households receiving specific types of support in the last 3 months. The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents' answers.</p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>The calculation of this indicator requires to have reliable information on number of household members living in households receiving specific types of support in the last 3 months. The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents&#39; answers.</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -14839,7 +14839,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="b36f0425-5414-48ad-9aef-91f9418fb0a2">
+  <mes:MetadataSet structureRef="MDS1" setID="2e172b8d-648a-4b89-9fbd-87b47b8a8757">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -15010,7 +15010,7 @@
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="en"><![CDATA[<p>The calculation of this indicator requires to have reliable information on number of household members living in households receiving specific types of support in the last 3 months. The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents' answers.</p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>The calculation of this indicator requires to have reliable information on number of household members living in households receiving specific types of support in the last 3 months. The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents&#39; answers.</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -15090,7 +15090,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="1a36cc6c-a0b8-48ee-9af6-adc585b7eee8">
+  <mes:MetadataSet structureRef="MDS1" setID="50277587-fce5-4d75-868c-5d47a4b084f3">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -15261,7 +15261,7 @@
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="en"><![CDATA[<p>The calculation of this indicator requires to have reliable information on number of household members living in households receiving specific types of support in the last 3 months. The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents' answers.</p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>The calculation of this indicator requires to have reliable information on number of household members living in households receiving specific types of support in the last 3 months. The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents&#39; answers.</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -15341,7 +15341,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="1e7fda50-6328-48c9-b2bd-03bc904ac636">
+  <mes:MetadataSet structureRef="MDS1" setID="25b422b9-90f2-4f3e-bb25-f0af4b1c7aa5">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -15512,7 +15512,7 @@
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="en"><![CDATA[<p>The calculation of this indicator requires to have reliable information on number of household members living in households receiving specific types of support in the last 3 months. The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents' answers.</p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>The calculation of this indicator requires to have reliable information on number of household members living in households receiving specific types of support in the last 3 months. The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents&#39; answers.</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -15592,7 +15592,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="14af86db-57e9-484a-a408-ba911d0e2bc9">
+  <mes:MetadataSet structureRef="MDS1" setID="89a66b03-a743-44a3-8b23-71a5d64679c7">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -15763,7 +15763,7 @@
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="en"><![CDATA[<p>The calculation of this indicator requires to have reliable information on number of household members living in households receiving specific types of support in the last 3 months. The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents' answers.</p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>The calculation of this indicator requires to have reliable information on number of household members living in households receiving specific types of support in the last 3 months. The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents&#39; answers.</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -15843,7 +15843,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="12f86e5a-d208-4dee-b4d9-538081565a1f">
+  <mes:MetadataSet structureRef="MDS1" setID="4adee350-8c8d-40bf-8ece-fe6b0a4306d5">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -16014,7 +16014,7 @@
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="en"><![CDATA[<p>The calculation of this indicator requires to have reliable information on number of household members living in households receiving specific types of support in the last 3 months. The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents' answers.</p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>The calculation of this indicator requires to have reliable information on number of household members living in households receiving specific types of support in the last 3 months. The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents&#39; answers.</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -16094,7 +16094,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="cc3e97d0-ec37-47f0-bb9a-ea76523c4cf2">
+  <mes:MetadataSet structureRef="MDS1" setID="340287cb-9aa8-413a-85fa-1440e25da14e">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -16265,7 +16265,7 @@
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="en"><![CDATA[<p>The calculation of this indicator requires to have reliable information on number of household members living in households receiving specific types of support in the last 3 months. The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents' answers.</p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>The calculation of this indicator requires to have reliable information on number of household members living in households receiving specific types of support in the last 3 months. The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents&#39; answers.</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -16345,7 +16345,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="8faa7659-4e85-43a4-96cf-3797ad458719">
+  <mes:MetadataSet structureRef="MDS1" setID="0328e4a8-ead2-4d84-bf87-9501cabc297c">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -16516,7 +16516,7 @@
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="en"><![CDATA[<p>The calculation of this indicator requires to have reliable information on number of household members living in households receiving specific types of support in the last 3 months. The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents' answers.</p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>The calculation of this indicator requires to have reliable information on number of household members living in households receiving specific types of support in the last 3 months. The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents&#39; answers.</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -16596,7 +16596,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="470e3ea3-b530-451e-a781-38481a860ea4">
+  <mes:MetadataSet structureRef="MDS1" setID="a0eff6d8-2b97-45ff-a097-ad70ddd22eaf">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -16767,7 +16767,7 @@
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="en"><![CDATA[<p>The calculation of this indicator requires to have reliable information on number of household members living in households receiving specific types of support in the last 3 months. The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents' answers.</p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>The calculation of this indicator requires to have reliable information on number of household members living in households receiving specific types of support in the last 3 months. The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents&#39; answers.</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -16847,7 +16847,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="ddf75ddb-bca6-4d26-bf5b-28a8c2bdcd11">
+  <mes:MetadataSet structureRef="MDS1" setID="89bc58a7-1059-4cfd-9404-7b9115e003f2">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -17018,7 +17018,7 @@
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="en"><![CDATA[<p>The calculation of this indicator requires to have reliable information on number of household members living in households receiving specific types of support in the last 3 months. The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents' answers.</p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>The calculation of this indicator requires to have reliable information on number of household members living in households receiving specific types of support in the last 3 months. The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents&#39; answers.</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -17098,7 +17098,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="e1ff1b6f-077a-4b20-9a37-b0d72b92d1e9">
+  <mes:MetadataSet structureRef="MDS1" setID="7c3cb5ff-5dac-4f96-a55b-2aba4437c4bc">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -17269,7 +17269,7 @@
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="en"><![CDATA[<p>The calculation of this indicator requires to have reliable information on number of women aged 20-24 years who were married or in union before age 15 and total number of women aged 20-24 years in the population. The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents' answers.</p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>The calculation of this indicator requires to have reliable information on number of women aged 20-24 years who were married or in union before age 15 and total number of women aged 20-24 years in the population. The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents&#39; answers.</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -17349,7 +17349,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="b6c66582-1055-4b43-9aac-fcdcd06ff9fa">
+  <mes:MetadataSet structureRef="MDS1" setID="96571cd6-2b8f-4e5e-b972-1d6345ed5e56">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -17520,7 +17520,7 @@
         
         <gen:ReportedAttribute id="REC_USE_LIM">
           
-          <com:Text xml:lang="en"><![CDATA[<p>The calculation of this indicator requires to have reliable information on number of women aged 20-24 years who were married or in union before age 15 and total number of women aged 20-24 years in the population. The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents' answers.</p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[<p>The calculation of this indicator requires to have reliable information on number of women aged 20-24 years who were married or in union before age 15 and total number of women aged 20-24 years in the population. The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents&#39; answers.</p>]]></com:Text>
           
         </gen:ReportedAttribute>
         
@@ -17600,7 +17600,7 @@
     </gen:Report>
   </mes:MetadataSet>
   
-  <mes:MetadataSet structureRef="MDS1" setID="98481609-1a55-4c7a-b0f5-7c1be57cbe35">
+  <mes:MetadataSet structureRef="MDS1" setID="ebd2eb4f-2fd3-4412-838d-2bc9c1121799">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
