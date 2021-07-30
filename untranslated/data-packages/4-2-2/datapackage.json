@@ -83,6 +83,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "NP",
                 "NP1",
                 "NP2",
                 "NP3",

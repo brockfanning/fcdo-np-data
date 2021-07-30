@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
+  <mes:Header>
+    <mes:ID>IREF1627657222</mes:ID>
+    <mes:Test>True</mes:Test>
+    <mes:Prepared>2021-07-30T15:00:22</mes:Prepared>
+    <mes:Sender id="open-sdg_sdg-build@1-4-0"/>
+    <mes:Structure structureID="MDS1">
+      <com:Structure>
+        <URN>urn:sdmx:org.sdmx.infomodel.metadatastructure.MetadataStructure=IAEG-SDGs:SDG_MSD(0.3)</URN>
+      </com:Structure>
+    </mes:Structure>
+  </mes:Header>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="0df0fc6c-085a-4105-8a3d-70afc88e55eb">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>SE_TOT_PRFL</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>NP</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>4 Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>4.1 By 2030, ensure that all girls and boys complete free, equitable and quality primary and secondary education leading to relevant and effective learning outcomes</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>4.1.1 Proportion of children and young people: (a) in grades 2/3; (b) at the end of primary; and (c) at the end of lower secondary achieving at least a minimum proficiency level in (i) reading and (ii) mathematics, by sex</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_SERIES_DESCR">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>This is under SDG 4</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="META_LAST_UPDATE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>15 December 2020</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_CUSTODIAN_AGENCIES">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>UNICEF</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Central Bureau of Statistics</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Tirtha Chaulagain, Information Officer</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Gender and Social Statistics Section</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_FUNCT">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Tirtha Chaulagain, Information Officer</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>+977 01 4229406</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_MAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Thapathali, Kathmandu, Nepal</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>info@cbs.gov.np</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>This indicator is defined as the percentage of children who successfully completed four foundational number tasks </p><p>(d) Age 7-14.</p><p>One of the most fundamental skills that a child can learn is the ability to read and understand the simple text. Learning outcomes are key indicators of quality education as they provide evidence on whether schools are equipping children with the foundational learning skills. Therefore, this indicator helps to measure learning outcomes expected for grades 2 and 3 in numeracy and reading among a children. </p><p>A strong foundation in basic numeracy skills during the early grades is crucial for success in mathematics in the later years. At present, mathematical skills are must require skills for all sorts of competitive job. According to report “School Readiness and Later Achievement’, early mathematical knowledge is a primary predictor of later academic achievement and future success in mathematics. It is related to an early and strong conceptual function. Foundational skills are divided into four tasks:</p><ol><li>Number reading </li><li>Number discrimination</li><li>Addition </li><li>Pattern recognition</li></ol><p>If the child succeeds in all four tasks above mentioned, s/he is considered to have foundational numeracy skills.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="UNIT_MEASURE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Percentage</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CLASS_SYSTEM">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Global MICS guidelines by UNICEF</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>An international multi-purpose household survey programme was developed by UNICEF in the 1990s to support countries in collecting internationally comparable data on a wide range of indicators on the situation of children and women, widely known as global MICS programme. It measures key indicators that allows countries to generate data for using in policy making and designing programs, and to monitor progress towards the national goals and global commitments.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COLL_METHOD">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>The sample for the Nepal MICS 2019 was designed to provide estimates for a large number of indicators on the situation of children and women at the national level, for urban and rural areas and seven provinces. The urban and rural areas within each province were identified as the main sampling strata. Kathmandu valley urban is included as a separate stratum as it’s characteristics differ from the rest. Each stratum was a separate domain. The sample of household was selected in two stages. Within each stratum, at the first sampling stage a specified number of census enumerations areas (EA), was selected systematically with probability proportional to size. A household listing was carried out within the selected enumeration areas, identifying the households with and without children under 5 years. In total, 25 households with and without children under 5 years were selected in each sample enumeration area through systematic random sampling method. To ensure strong representativeness of children under 5 in the sample, household with children under 5 years were oversampled. Hence, 13 households with children under 5 years and 12 households without children under 5 years were selected from listing in each enumeration area. A total sample of 512 enumeration area and 12800 households was selected for the survey. As the sample is not self-weighting, sample weights are used for reporting survey results. </p><p>The sampling frame of Nepal is based on the 2011 National population and Housing Census (NPHC). The census frame is a complete list of all census wards created for the 2011 NPHC. At the time of last census, the urban household population constituted 20% of the total household population. According to the latest changes in the administrative structure, following the federalization of the government, the urban household population increased to 65%. CBS updated the population frame to reflect the current status. In designing the sample for the Nepal MICS, it was very useful to review the sample design and results of the MICS conducted in 2014, documented in the final report of that survey. </p><p>Therefore, a multi-stage, stratified cluster sampling approach was used for the selection of the survey sample. The primary sampling units (PSUs) selected at the first stage were the enumeration areas (EAs) defined for the census enumeration. A listing of households was conducted in each sample enumeration area, and a sample of households was selected at the second stage.  </p><p>The questionnaires were developed based on the MICS 6 standard questionnaires of UNICEF. It was customized and translated into Nepali, Bhojpuri and Maithili language. After the development of questionnaire, it was pre-tested in Sindhupalchowk and Sindhuli district during March 2019. Based on the results of the pre-test, modifications were made to the wording and translation of the questionnaires. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="FREQ_COLL">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>2024</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REL_CAL_POLICY">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>2024</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_SOURCE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Central Bureau of Statistics</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Central Bureau of Statistics</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="INST_MANDATE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>National official statistical agency that is responsible for conducting, survey and census.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Over the past decades, access to education increased significantly. However, the disparities remain and many children in school struggle to achieve basic literacy and numeracy skills. Learning outcomes are key indicators of quality education as they provide evidence on whether schools are equipping children with the foundational learning skills. Therefore, this indicator helps to measure learning outcomes in numeracy and reading among children. It helps to capture a fuller picture of learning outcomes of children, including the disadvantaged, which helps ministries of education target support for children not learning to their potential.  </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>A small proportion of interviewers across early MICS6 surveys in Nepal and elsewhere recorded the results of the two practise items in the data collection application, effectively shifting the responses in numeracy foundational skills questionnaire two spaces. During secondary editing such cases were identified and shifted back to the correct position, but the consequences remained of the loss of answers to the last two of the five pattern recognition items. The module has now been redesigned to avoid the occurrence of this problem. </p><p>While producing this report, several options were considered for presentation of the findings:</p><ol><li>Use all children in the table in MICS report. This would the best possible estimates on the tasks of number reading, number discrimination and addition, but underestimate on pattern recognition and, most importantly on the overall indicator of foundational numeracy skills. </li><li>Exclude children affected by the shifted entries. This would impact all results in the tables, but the extent of the impact would need further analysis and depends largely on the amount and distribution of the excluded cases.</li><li>Use a mixed approach, presenting number reading, number discrimination and addition for all children and the pattern recognition and overall indicator only on children not affected by the shifted entries, effectively using two denominators in the table.</li><li>Not presenting the table and indicator as per methodology, reducing the requirement of successful completion in pattern recognition to three items rather than five. This would overestimate pattern recognition and the overall indicator compared to standard methodology.</li></ol><p>Following analysis of the extent and distribution of shifted cases, option 2) was selected as score distributions of first three items of pattern recognition are very similar across shifted and non-shifted samples which indicates that excluding shifted cases would not affect overall average while addressing biases introduced by shifted cases.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Where, </p><p>FNS<sub>ng = </sub>the share of children aged <em>n</em> and attending school grade <em>g</em> who have foundational numeracy skills </p><p>Numbskill<sub>ng = </sub>children aged <em>n</em> and attending school grade <em>g</em> who have foundational numeracy skills equal to 1 according to the formula above </p><p>T<sub>ng­</sub>= total number of children aged <em>n</em> and attending school grade <em>g</em></p><p>Proportion of children aged <em>n</em> years and attending school grade <em>g </em>who have foundational numeracy skills = Number of children aged <em>n </em>years and attending school grade <em>g</em>  who have number skill equal to 1 according to the formula above / Total number of children aged <em>n</em> years and attending school grade <em>g</em> ×100</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_VALIDATION">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Interviewer’s manual in Nepali language was developed which included concepts, definitions, description of each question and fieldwork procedures, etc. to ensure that quality information was collected.</p><p>Team supervisors were responsible for daily monitoring of filed work. It was mandatory to re-interview on one household per cluster. Furthermore, the skills and performance were observed on daily basis.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ADJUSTMENT">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Not applicable</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="IMPUTATION">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Not applicable</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REG_AGG">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Not applicable</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DOC_METHOD">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>It follows the MICS 6 standard questionnaires of UNICEF.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_MGMNT">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Central Bureau of Statistics is the official agency to conducts survey and census. It has trained manpower</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>The questionnaires were developed based on the MICS 6 standard questionnaires of UNICEF. It was customized and translated into Nepali, Bhojpuri and Maithili language. After the development of questionnaire, it was pre-tested in Sindhupalchowk and Sindhuli district during March 2019. Based on the results of the pre-test, modifications were made to the wording and translation of the questionnaires. </p><p>Interviewer’s manual in Nepali language was developed which included concepts, definitions, description of each question and fieldwork procedures, etc. to ensure that quality information was collected.</p><p>Team supervisors were responsible for daily monitoring of filed work. It was mandatory to re-interview on one household per cluster. Furthermore, the skills and performance were observed on daily basis.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSMNT">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>The questionnaires were developed based on the MICS 6 standard questionnaires of UNICEF. It was customized and translated into Nepali, Bhojpuri and Maithili language. After the development of questionnaire, it was pre-tested in Sindhupalchowk and Sindhuli district during March 2019. Based on the results of the pre-test, modifications were made to the wording and translation of the questionnaires. </p><p>Interviewer’s manual in Nepali language was developed which included concepts, definitions, description of each question and fieldwork procedures, etc. to ensure that quality information was collected.</p><p>Team supervisors were responsible for daily monitoring of filed work. It was mandatory to re-interview on one household per cluster. Furthermore, the skills and performance were observed on daily basis.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>The data is available by province and rural and urban.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>It follows MICS 6 guidelines of UNICEF and can be compared across countries.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Central Bureau of Statistics (CBS), 2020. Nepal Multiple Indicator Cluster Survey 2019, Survey Findings Report. Kathmandu, Nepal: Central Bureau of Statistics and UNICEF Nepal.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+</mes:GenericMetadata>
+        

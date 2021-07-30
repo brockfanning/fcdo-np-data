@@ -1,0 +1,1020 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
+  <mes:Header>
+    <mes:ID>IREF1627657222</mes:ID>
+    <mes:Test>True</mes:Test>
+    <mes:Prepared>2021-07-30T15:00:22</mes:Prepared>
+    <mes:Sender id="open-sdg_sdg-build@1-4-0"/>
+    <mes:Structure structureID="MDS1">
+      <com:Structure>
+        <URN>urn:sdmx:org.sdmx.infomodel.metadatastructure.MetadataStructure=IAEG-SDGs:SDG_MSD(0.3)</URN>
+      </com:Structure>
+    </mes:Structure>
+  </mes:Header>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="89866312-fb72-4b81-bdad-2d45a6a64a88">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>SH_STA_WAST</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>NP</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>2 End hunger, achieve food security and improved nutrition and promote sustainable agriculture </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>2.2 By 2030, end all forms of malnutrition, including achieving, by 2025, the internationally agreed targets on stunting and wasting in children under 5 years of age, and address the nutritional needs of adolescent girls, pregnant and lactating women and older persons</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>2.2.2 Prevalence of malnutrition (weight for height above 3 standard deviation from the median of the WHO Child Growth Standards) among children under 5 years of age, by type (wasting and overweight)</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_SERIES_DESCR">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>This is under SDG 2</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="META_LAST_UPDATE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>15 December 2020</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_CUSTODIAN_AGENCIES">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>UNICEF</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Central Bureau of Statistics</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Tirtha Chaulagain, Information Officer</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Household survey section</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_FUNCT">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Tirtha Chaulagain, Information Officer</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>+977 01 4229406</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_MAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Thapathali, Kathmandu, Nepal</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>info@cbs.gov.np</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>This indicator shows the percentage of children under age 5 who are above three standard deviations (severe) of the median weight for height of the WHO standard.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="UNIT_MEASURE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Percentage</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CLASS_SYSTEM">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Global MICS guidelines by UNICEF</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>An international multi-purpose household survey programme was developed by UNICEF in the 1990s to support countries in collecting internationally comparable data on a wide range of indicators on the situation of children and women, widely known as global MICS programme. It measures key indicators that allows countries to generate data for using in policy making and designing programs, and to monitor progress towards the national goals and global commitments. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COLL_METHOD">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>The sample for the Nepal MICS 2019 was designed to provide estimates for a large number of indicators on the situation of children and women at the national level, for urban and rural areas and seven provinces. The urban and rural areas within each province were identified as the main sampling strata. Kathmandu valley urban is included as a separate stratum as it’s characteristics differ from the rest. Each stratum was a separate domain. The sample of household was selected in two stages. Within each stratum, at the first sampling stage a specified number of census enumerations areas (EA), was selected systematically with probability proportional to size. A household listing was carried out within the selected enumeration areas, identifying the households with and without children under 5 years. In total, 25 households with and without children under 5 were selected in each sample enumeration area through systematic random sampling method. To ensure strong representativeness of children under 5 in the sample, household with children under 5 were oversampled. Where 13 households with children under 5 and 12 households without were selected from listing in each enumeration area. A total sample of 512 enumeration area and 12800 households was selected for the survey. As the sample is not self-weighting, sample weights are used for reporting survey results. </p><p>The sampling frame of Nepal is based on the 2011 National population and Housing Census (NPHC). The census frame is a complete list of all census wards created for the 2011 NPHC. At the time of last census, the urban household population constituted 20% of the total household population. According to the latest changes in the administrative structure, following the federalization of the government, the urban household population increased to 65%. CBS updated the population frame to reflect the current status. In designing the sample for the Nepal MICS, it was very useful to review the sample design and results of the MICS conducted in 2014, documented in the Final Report of that survey. </p><p>Therefore, a multi-stage, stratified cluster sampling approach was used for the selection of the survey sample. The primary sampling units (PSUs) selected at the first stage were the enumeration areas (EAs) defined for the census enumeration. A listing of households was conducted in each sample enumeration area, and a sample of households was selected at the second stage.  </p><p>The questionnaires were based on the MICS 6 standard questionnaires of UNICEF. It was customized and translated into Nepali, Bhojpuri and Maithili and were pre-tested in Sindhupalchowk and Sindhuli district during March 2019. Based on the results of the pre-test, modifications were made to the wording and translation of the questionnaires. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="FREQ_COLL">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>2024</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REL_CAL_POLICY">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>2024</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_SOURCE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Central Bureau of Statistics</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Central Bureau of Statistics</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="INST_MANDATE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>National official statistical agency that is responsible for conducting, survey and census.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Child growth is an internationally accepted outcome reflecting child nutritional status. Child overweight refers to a child who is too heavy for his or her height. This form of malnutrition results from expending too few calories for the amount of food consumed and increases the risk of non-communicable diseases later in life. Child overweight is one of the World Health Assembly nutrition target indicators.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents' answers.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Undernutrition in a population can be gauged by comparing children to this reference population. The nutritional status indicator weight-for-height can be expressed in standard deviation units (z-scores) from the median of the reference population.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_VALIDATION">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Interviewer’s manual in Nepali language was developed which included concepts, definitions, description of each question and fieldwork procedures, etc. to ensure that quality information was collected.</p><p>For the daily monitoring of field work, team supervisors were responsible. Re-interviewing on one household per cluster was mandatory. Skills and performance of interviewer were observed daily.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ADJUSTMENT">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Not applicable</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="IMPUTATION">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Not applicable</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REG_AGG">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Not applicable</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DOC_METHOD">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>It follows the MICS 6 standard questionnaires of UNICEF.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_MGMNT">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Central Bureau of Statistics is the official agency to conducts survey and census. It has trained manpower</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>The questionnaires were developed based on the MICS 6 standard questionnaires of UNICEF. It was customized and translated into Nepali, Bhojpuri and Maithili language. After the development of questionnaire, it was pre-tested in Sindhupalchowk and Sindhuli district during March 2019. Based on the results of the pre-test, modifications were made to the wording and translation of the questionnaires. </p><p>Interviewer’s manual in Nepali language was developed which included concepts, definitions, description of each question and fieldwork procedures, etc. to ensure that quality information was collected.</p><p>Team supervisors were responsible for daily monitoring of filed work. It was mandatory to re-interview on one household per cluster. Furthermore, the skills and performance were observed on daily basis.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSMNT">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>The questionnaires were developed based on the MICS 6 standard questionnaires of UNICEF. It was customized and translated into Nepali, Bhojpuri and Maithili language. After the development of questionnaire, it was pre-tested in Sindhupalchowk and Sindhuli district during March 2019. Based on the results of the pre-test, modifications were made to the wording and translation of the questionnaires. </p><p>Interviewer’s manual in Nepali language was developed which included concepts, definitions, description of each question and fieldwork procedures, etc. to ensure that quality information was collected.</p><p>Team supervisors were responsible for daily monitoring of filed work. It was mandatory to re-interview on one household per cluster. Furthermore, the skills and performance were observed on daily basis.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>The data is available by province and rural and urban.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>It follows MICS 6 guidelines of UNICEF and can be compared across countries.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Central Bureau of Statistics (CBS), 2020. Nepal Multiple Indicator Cluster Survey 2019, Survey Findings Report. Kathmandu, Nepal: Central Bureau of Statistics and UNICEF Nepal.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="adcdfd31-08f9-490d-97cc-3349392f2687">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>SH_STA_WASTN</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>NP</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>2 End hunger, achieve food security and improved nutrition and promote sustainable agriculture </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>2.2 By 2030, end all forms of malnutrition, including achieving, by 2025, the internationally agreed targets on stunting and wasting in children under 5 years of age, and address the nutritional needs of adolescent girls, pregnant and lactating women and older persons</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>2.2.2 Prevalence of malnutrition (weight for height above 3 standard deviation from the median of the WHO Child Growth Standards) among children under 5 years of age, by type (wasting and overweight)</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_SERIES_DESCR">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>This is under SDG 2</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="META_LAST_UPDATE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>15 December 2020</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_CUSTODIAN_AGENCIES">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>UNICEF</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Central Bureau of Statistics</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Tirtha Chaulagain, Information Officer</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Household survey section</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_FUNCT">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Tirtha Chaulagain, Information Officer</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>+977 01 4229406</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_MAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Thapathali, Kathmandu, Nepal</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>info@cbs.gov.np</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>This indicator shows the percentage of children under age 5 who are above three standard deviations (severe) of the median weight for height of the WHO standard.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="UNIT_MEASURE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Percentage</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CLASS_SYSTEM">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Global MICS guidelines by UNICEF</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>An international multi-purpose household survey programme was developed by UNICEF in the 1990s to support countries in collecting internationally comparable data on a wide range of indicators on the situation of children and women, widely known as global MICS programme. It measures key indicators that allows countries to generate data for using in policy making and designing programs, and to monitor progress towards the national goals and global commitments. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COLL_METHOD">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>The sample for the Nepal MICS 2019 was designed to provide estimates for a large number of indicators on the situation of children and women at the national level, for urban and rural areas and seven provinces. The urban and rural areas within each province were identified as the main sampling strata. Kathmandu valley urban is included as a separate stratum as it’s characteristics differ from the rest. Each stratum was a separate domain. The sample of household was selected in two stages. Within each stratum, at the first sampling stage a specified number of census enumerations areas (EA), was selected systematically with probability proportional to size. A household listing was carried out within the selected enumeration areas, identifying the households with and without children under 5 years. In total, 25 households with and without children under 5 were selected in each sample enumeration area through systematic random sampling method. To ensure strong representativeness of children under 5 in the sample, household with children under 5 were oversampled. Where 13 households with children under 5 and 12 households without were selected from listing in each enumeration area. A total sample of 512 enumeration area and 12800 households was selected for the survey. As the sample is not self-weighting, sample weights are used for reporting survey results. </p><p>The sampling frame of Nepal is based on the 2011 National population and Housing Census (NPHC). The census frame is a complete list of all census wards created for the 2011 NPHC. At the time of last census, the urban household population constituted 20% of the total household population. According to the latest changes in the administrative structure, following the federalization of the government, the urban household population increased to 65%. CBS updated the population frame to reflect the current status. In designing the sample for the Nepal MICS, it was very useful to review the sample design and results of the MICS conducted in 2014, documented in the Final Report of that survey. </p><p>Therefore, a multi-stage, stratified cluster sampling approach was used for the selection of the survey sample. The primary sampling units (PSUs) selected at the first stage were the enumeration areas (EAs) defined for the census enumeration. A listing of households was conducted in each sample enumeration area, and a sample of households was selected at the second stage.  </p><p>The questionnaires were based on the MICS 6 standard questionnaires of UNICEF. It was customized and translated into Nepali, Bhojpuri and Maithili and were pre-tested in Sindhupalchowk and Sindhuli district during March 2019. Based on the results of the pre-test, modifications were made to the wording and translation of the questionnaires. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="FREQ_COLL">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>2024</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REL_CAL_POLICY">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>2024</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_SOURCE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Central Bureau of Statistics</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Central Bureau of Statistics</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="INST_MANDATE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>National official statistical agency that is responsible for conducting, survey and census.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Child growth is an internationally accepted outcome reflecting child nutritional status. Child overweight refers to a child who is too heavy for his or her height. This form of malnutrition results from expending too few calories for the amount of food consumed and increases the risk of non-communicable diseases later in life. Child overweight is one of the World Health Assembly nutrition target indicators.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents' answers.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Undernutrition in a population can be gauged by comparing children to this reference population. The nutritional status indicator weight-for-height can be expressed in standard deviation units (z-scores) from the median of the reference population.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_VALIDATION">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Interviewer’s manual in Nepali language was developed which included concepts, definitions, description of each question and fieldwork procedures, etc. to ensure that quality information was collected.</p><p>For the daily monitoring of field work, team supervisors were responsible. Re-interviewing on one household per cluster was mandatory. Skills and performance of interviewer were observed daily.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ADJUSTMENT">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Not applicable</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="IMPUTATION">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Not applicable</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REG_AGG">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Not applicable</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DOC_METHOD">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>It follows the MICS 6 standard questionnaires of UNICEF.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_MGMNT">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Central Bureau of Statistics is the official agency to conducts survey and census. It has trained manpower</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>The questionnaires were developed based on the MICS 6 standard questionnaires of UNICEF. It was customized and translated into Nepali, Bhojpuri and Maithili language. After the development of questionnaire, it was pre-tested in Sindhupalchowk and Sindhuli district during March 2019. Based on the results of the pre-test, modifications were made to the wording and translation of the questionnaires. </p><p>Interviewer’s manual in Nepali language was developed which included concepts, definitions, description of each question and fieldwork procedures, etc. to ensure that quality information was collected.</p><p>Team supervisors were responsible for daily monitoring of filed work. It was mandatory to re-interview on one household per cluster. Furthermore, the skills and performance were observed on daily basis.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSMNT">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>The questionnaires were developed based on the MICS 6 standard questionnaires of UNICEF. It was customized and translated into Nepali, Bhojpuri and Maithili language. After the development of questionnaire, it was pre-tested in Sindhupalchowk and Sindhuli district during March 2019. Based on the results of the pre-test, modifications were made to the wording and translation of the questionnaires. </p><p>Interviewer’s manual in Nepali language was developed which included concepts, definitions, description of each question and fieldwork procedures, etc. to ensure that quality information was collected.</p><p>Team supervisors were responsible for daily monitoring of filed work. It was mandatory to re-interview on one household per cluster. Furthermore, the skills and performance were observed on daily basis.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>The data is available by province and rural and urban.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>It follows MICS 6 guidelines of UNICEF and can be compared across countries.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Central Bureau of Statistics (CBS), 2020. Nepal Multiple Indicator Cluster Survey 2019, Survey Findings Report. Kathmandu, Nepal: Central Bureau of Statistics and UNICEF Nepal.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="6b10f29f-c0bd-4faa-b0d8-710583b602c2">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>SN_STA_OVWGT</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>NP</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>2 End hunger, achieve food security and improved nutrition and promote sustainable agriculture </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>2.2 By 2030, end all forms of malnutrition, including achieving, by 2025, the internationally agreed targets on stunting and wasting in children under 5 years of age, and address the nutritional needs of adolescent girls, pregnant and lactating women and older persons</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>2.2.2 Prevalence of malnutrition (weight for height above 3 standard deviation from the median of the WHO Child Growth Standards) among children under 5 years of age, by type (wasting and overweight)</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_SERIES_DESCR">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>This is under SDG 2</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="META_LAST_UPDATE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>15 December 2020</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_CUSTODIAN_AGENCIES">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>UNICEF</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Central Bureau of Statistics</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Tirtha Chaulagain, Information Officer</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Household survey section</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_FUNCT">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Tirtha Chaulagain, Information Officer</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>+977 01 4229406</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_MAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Thapathali, Kathmandu, Nepal</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>info@cbs.gov.np</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>This indicator shows the percentage of children under age 5 who are above three standard deviations (severe) of the median weight for height of the WHO standard.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="UNIT_MEASURE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Percentage</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CLASS_SYSTEM">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Global MICS guidelines by UNICEF</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>An international multi-purpose household survey programme was developed by UNICEF in the 1990s to support countries in collecting internationally comparable data on a wide range of indicators on the situation of children and women, widely known as global MICS programme. It measures key indicators that allows countries to generate data for using in policy making and designing programs, and to monitor progress towards the national goals and global commitments. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COLL_METHOD">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>The sample for the Nepal MICS 2019 was designed to provide estimates for a large number of indicators on the situation of children and women at the national level, for urban and rural areas and seven provinces. The urban and rural areas within each province were identified as the main sampling strata. Kathmandu valley urban is included as a separate stratum as it’s characteristics differ from the rest. Each stratum was a separate domain. The sample of household was selected in two stages. Within each stratum, at the first sampling stage a specified number of census enumerations areas (EA), was selected systematically with probability proportional to size. A household listing was carried out within the selected enumeration areas, identifying the households with and without children under 5 years. In total, 25 households with and without children under 5 were selected in each sample enumeration area through systematic random sampling method. To ensure strong representativeness of children under 5 in the sample, household with children under 5 were oversampled. Where 13 households with children under 5 and 12 households without were selected from listing in each enumeration area. A total sample of 512 enumeration area and 12800 households was selected for the survey. As the sample is not self-weighting, sample weights are used for reporting survey results. </p><p>The sampling frame of Nepal is based on the 2011 National population and Housing Census (NPHC). The census frame is a complete list of all census wards created for the 2011 NPHC. At the time of last census, the urban household population constituted 20% of the total household population. According to the latest changes in the administrative structure, following the federalization of the government, the urban household population increased to 65%. CBS updated the population frame to reflect the current status. In designing the sample for the Nepal MICS, it was very useful to review the sample design and results of the MICS conducted in 2014, documented in the Final Report of that survey. </p><p>Therefore, a multi-stage, stratified cluster sampling approach was used for the selection of the survey sample. The primary sampling units (PSUs) selected at the first stage were the enumeration areas (EAs) defined for the census enumeration. A listing of households was conducted in each sample enumeration area, and a sample of households was selected at the second stage.  </p><p>The questionnaires were based on the MICS 6 standard questionnaires of UNICEF. It was customized and translated into Nepali, Bhojpuri and Maithili and were pre-tested in Sindhupalchowk and Sindhuli district during March 2019. Based on the results of the pre-test, modifications were made to the wording and translation of the questionnaires. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="FREQ_COLL">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>2024</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REL_CAL_POLICY">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>2024</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_SOURCE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Central Bureau of Statistics</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Central Bureau of Statistics</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="INST_MANDATE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>National official statistical agency that is responsible for conducting, survey and census.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Child growth is an internationally accepted outcome reflecting child nutritional status. Child overweight refers to a child who is too heavy for his or her height. This form of malnutrition results from expending too few calories for the amount of food consumed and increases the risk of non-communicable diseases later in life. Child overweight is one of the World Health Assembly nutrition target indicators.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents' answers.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Undernutrition in a population can be gauged by comparing children to this reference population. The nutritional status indicator weight-for-height can be expressed in standard deviation units (z-scores) from the median of the reference population.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_VALIDATION">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Interviewer’s manual in Nepali language was developed which included concepts, definitions, description of each question and fieldwork procedures, etc. to ensure that quality information was collected.</p><p>For the daily monitoring of field work, team supervisors were responsible. Re-interviewing on one household per cluster was mandatory. Skills and performance of interviewer were observed daily.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ADJUSTMENT">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Not applicable</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="IMPUTATION">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Not applicable</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REG_AGG">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Not applicable</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DOC_METHOD">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>It follows the MICS 6 standard questionnaires of UNICEF.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_MGMNT">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Central Bureau of Statistics is the official agency to conducts survey and census. It has trained manpower</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>The questionnaires were developed based on the MICS 6 standard questionnaires of UNICEF. It was customized and translated into Nepali, Bhojpuri and Maithili language. After the development of questionnaire, it was pre-tested in Sindhupalchowk and Sindhuli district during March 2019. Based on the results of the pre-test, modifications were made to the wording and translation of the questionnaires. </p><p>Interviewer’s manual in Nepali language was developed which included concepts, definitions, description of each question and fieldwork procedures, etc. to ensure that quality information was collected.</p><p>Team supervisors were responsible for daily monitoring of filed work. It was mandatory to re-interview on one household per cluster. Furthermore, the skills and performance were observed on daily basis.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSMNT">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>The questionnaires were developed based on the MICS 6 standard questionnaires of UNICEF. It was customized and translated into Nepali, Bhojpuri and Maithili language. After the development of questionnaire, it was pre-tested in Sindhupalchowk and Sindhuli district during March 2019. Based on the results of the pre-test, modifications were made to the wording and translation of the questionnaires. </p><p>Interviewer’s manual in Nepali language was developed which included concepts, definitions, description of each question and fieldwork procedures, etc. to ensure that quality information was collected.</p><p>Team supervisors were responsible for daily monitoring of filed work. It was mandatory to re-interview on one household per cluster. Furthermore, the skills and performance were observed on daily basis.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>The data is available by province and rural and urban.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>It follows MICS 6 guidelines of UNICEF and can be compared across countries.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Central Bureau of Statistics (CBS), 2020. Nepal Multiple Indicator Cluster Survey 2019, Survey Findings Report. Kathmandu, Nepal: Central Bureau of Statistics and UNICEF Nepal.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="14cbfaa1-8c04-48f9-a36e-92413909f814">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>SN_STA_OVWGTN</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>NP</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>2 End hunger, achieve food security and improved nutrition and promote sustainable agriculture </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>2.2 By 2030, end all forms of malnutrition, including achieving, by 2025, the internationally agreed targets on stunting and wasting in children under 5 years of age, and address the nutritional needs of adolescent girls, pregnant and lactating women and older persons</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>2.2.2 Prevalence of malnutrition (weight for height above 3 standard deviation from the median of the WHO Child Growth Standards) among children under 5 years of age, by type (wasting and overweight)</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_SERIES_DESCR">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>This is under SDG 2</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="META_LAST_UPDATE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>15 December 2020</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_CUSTODIAN_AGENCIES">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>UNICEF</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Central Bureau of Statistics</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Tirtha Chaulagain, Information Officer</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Household survey section</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_FUNCT">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Tirtha Chaulagain, Information Officer</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>+977 01 4229406</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_MAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Thapathali, Kathmandu, Nepal</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>info@cbs.gov.np</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>This indicator shows the percentage of children under age 5 who are above three standard deviations (severe) of the median weight for height of the WHO standard.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="UNIT_MEASURE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Percentage</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CLASS_SYSTEM">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Global MICS guidelines by UNICEF</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>An international multi-purpose household survey programme was developed by UNICEF in the 1990s to support countries in collecting internationally comparable data on a wide range of indicators on the situation of children and women, widely known as global MICS programme. It measures key indicators that allows countries to generate data for using in policy making and designing programs, and to monitor progress towards the national goals and global commitments. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COLL_METHOD">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>The sample for the Nepal MICS 2019 was designed to provide estimates for a large number of indicators on the situation of children and women at the national level, for urban and rural areas and seven provinces. The urban and rural areas within each province were identified as the main sampling strata. Kathmandu valley urban is included as a separate stratum as it’s characteristics differ from the rest. Each stratum was a separate domain. The sample of household was selected in two stages. Within each stratum, at the first sampling stage a specified number of census enumerations areas (EA), was selected systematically with probability proportional to size. A household listing was carried out within the selected enumeration areas, identifying the households with and without children under 5 years. In total, 25 households with and without children under 5 were selected in each sample enumeration area through systematic random sampling method. To ensure strong representativeness of children under 5 in the sample, household with children under 5 were oversampled. Where 13 households with children under 5 and 12 households without were selected from listing in each enumeration area. A total sample of 512 enumeration area and 12800 households was selected for the survey. As the sample is not self-weighting, sample weights are used for reporting survey results. </p><p>The sampling frame of Nepal is based on the 2011 National population and Housing Census (NPHC). The census frame is a complete list of all census wards created for the 2011 NPHC. At the time of last census, the urban household population constituted 20% of the total household population. According to the latest changes in the administrative structure, following the federalization of the government, the urban household population increased to 65%. CBS updated the population frame to reflect the current status. In designing the sample for the Nepal MICS, it was very useful to review the sample design and results of the MICS conducted in 2014, documented in the Final Report of that survey. </p><p>Therefore, a multi-stage, stratified cluster sampling approach was used for the selection of the survey sample. The primary sampling units (PSUs) selected at the first stage were the enumeration areas (EAs) defined for the census enumeration. A listing of households was conducted in each sample enumeration area, and a sample of households was selected at the second stage.  </p><p>The questionnaires were based on the MICS 6 standard questionnaires of UNICEF. It was customized and translated into Nepali, Bhojpuri and Maithili and were pre-tested in Sindhupalchowk and Sindhuli district during March 2019. Based on the results of the pre-test, modifications were made to the wording and translation of the questionnaires. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="FREQ_COLL">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>2024</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REL_CAL_POLICY">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>2024</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_SOURCE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Central Bureau of Statistics</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Central Bureau of Statistics</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="INST_MANDATE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>National official statistical agency that is responsible for conducting, survey and census.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Child growth is an internationally accepted outcome reflecting child nutritional status. Child overweight refers to a child who is too heavy for his or her height. This form of malnutrition results from expending too few calories for the amount of food consumed and increases the risk of non-communicable diseases later in life. Child overweight is one of the World Health Assembly nutrition target indicators.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents' answers.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Undernutrition in a population can be gauged by comparing children to this reference population. The nutritional status indicator weight-for-height can be expressed in standard deviation units (z-scores) from the median of the reference population.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_VALIDATION">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Interviewer’s manual in Nepali language was developed which included concepts, definitions, description of each question and fieldwork procedures, etc. to ensure that quality information was collected.</p><p>For the daily monitoring of field work, team supervisors were responsible. Re-interviewing on one household per cluster was mandatory. Skills and performance of interviewer were observed daily.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ADJUSTMENT">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Not applicable</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="IMPUTATION">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Not applicable</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REG_AGG">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Not applicable</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DOC_METHOD">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>It follows the MICS 6 standard questionnaires of UNICEF.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_MGMNT">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Central Bureau of Statistics is the official agency to conducts survey and census. It has trained manpower</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>The questionnaires were developed based on the MICS 6 standard questionnaires of UNICEF. It was customized and translated into Nepali, Bhojpuri and Maithili language. After the development of questionnaire, it was pre-tested in Sindhupalchowk and Sindhuli district during March 2019. Based on the results of the pre-test, modifications were made to the wording and translation of the questionnaires. </p><p>Interviewer’s manual in Nepali language was developed which included concepts, definitions, description of each question and fieldwork procedures, etc. to ensure that quality information was collected.</p><p>Team supervisors were responsible for daily monitoring of filed work. It was mandatory to re-interview on one household per cluster. Furthermore, the skills and performance were observed on daily basis.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSMNT">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>The questionnaires were developed based on the MICS 6 standard questionnaires of UNICEF. It was customized and translated into Nepali, Bhojpuri and Maithili language. After the development of questionnaire, it was pre-tested in Sindhupalchowk and Sindhuli district during March 2019. Based on the results of the pre-test, modifications were made to the wording and translation of the questionnaires. </p><p>Interviewer’s manual in Nepali language was developed which included concepts, definitions, description of each question and fieldwork procedures, etc. to ensure that quality information was collected.</p><p>Team supervisors were responsible for daily monitoring of filed work. It was mandatory to re-interview on one household per cluster. Furthermore, the skills and performance were observed on daily basis.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>The data is available by province and rural and urban.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>It follows MICS 6 guidelines of UNICEF and can be compared across countries.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Central Bureau of Statistics (CBS), 2020. Nepal Multiple Indicator Cluster Survey 2019, Survey Findings Report. Kathmandu, Nepal: Central Bureau of Statistics and UNICEF Nepal.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+</mes:GenericMetadata>
+        

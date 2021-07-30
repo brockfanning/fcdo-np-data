@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
+  <mes:Header>
+    <mes:ID>IREF1627657222</mes:ID>
+    <mes:Test>True</mes:Test>
+    <mes:Prepared>2021-07-30T15:00:22</mes:Prepared>
+    <mes:Sender id="open-sdg_sdg-build@1-4-0"/>
+    <mes:Structure structureID="MDS1">
+      <com:Structure>
+        <URN>urn:sdmx:org.sdmx.infomodel.metadatastructure.MetadataStructure=IAEG-SDGs:SDG_MSD(0.3)</URN>
+      </com:Structure>
+    </mes:Structure>
+  </mes:Header>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="79087576-fad7-4a61-b7cb-764ca9f87693">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>SP_DYN_MRBF15</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>NP</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>5 Achieve gender equality and empower all women and girls</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>5.3 Eliminate all harmful practices, such as child, early and forced marriage and female genital mutilation</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>5.3.1 Proportion of women aged 20-24 years who were married or in a union before age 15</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_SERIES_DESCR">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>This is under SDG 5</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="META_LAST_UPDATE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>15 December 2020</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_CUSTODIAN_AGENCIES">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>UNICEF</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Central Bureau of Statistics</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Tirtha Chaulagain, Information Officer</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Gender and Social Statistics Section</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_FUNCT">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Tirtha Chaulagain, Information Officer</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>+977 01 4229406</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_MAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Thapathali, Kathmandu, Nepal</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>info@cbs.gov.np</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>This indicator is defined as the percentage of women and men age 20-24 years who were first married or in union before age 15. </p><p>According to UNICEF, child marriage is defined as a marriage of a girl or boy before the age of 18 years. It includes both types of union i.e. formal union (marriage) and informal union. Informal unions means couple living together for some time, intends to have a lasting relationship, but do not have formal civil or religious ceremony.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="UNIT_MEASURE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Percentage</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CLASS_SYSTEM">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Global MICS guidelines by UNICEF</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>An international multi-purpose household survey programme was developed by UNICEF in the 1990s to support countries in collecting internationally comparable data on a wide range of indicators on the situation of children and women, widely known as global MICS programme. It measures key indicators that allows countries to generate data for using in policy making and designing programs, and to monitor progress towards the national goals and global commitments.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COLL_METHOD">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>The sample for the Nepal MICS 2019 was designed to provide estimates for a large number of indicators on the situation of children and women at the national level, for urban and rural areas and seven provinces. The urban and rural areas within each province were identified as the main sampling strata. Kathmandu valley urban is included as a separate stratum as it’s characteristics differ from the rest. Each stratum was a separate domain. The sample of household was selected in two stages. Within each stratum, at the first sampling stage a specified number of census enumerations areas (EA), was selected systematically with probability proportional to size. A household listing was carried out within the selected enumeration areas, identifying the households with and without children under 5 years. In total, 25 households with and without children under 5 years were selected in each sample enumeration area through systematic random sampling method. To ensure strong representativeness of children under 5 in the sample, household with children under 5 years were oversampled. Hence, 13 households with children under 5 years and 12 households without children under 5 years were selected from listing in each enumeration area. A total sample of 512 enumeration area and 12800 households was selected for the survey. As the sample is not self-weighting, sample weights are used for reporting survey results. </p><p>The sampling frame of Nepal is based on the 2011 National population and Housing Census (NPHC). The census frame is a complete list of all census wards created for the 2011 NPHC. At the time of last census, the urban household population constituted 20% of the total household population. According to the latest changes in the administrative structure, following the federalization of the government, the urban household population increased to 65%. CBS updated the population frame to reflect the current status. In designing the sample for the Nepal MICS, it was very useful to review the sample design and results of the MICS conducted in 2014, documented in the final report of that survey. </p><p>Therefore, a multi-stage, stratified cluster sampling approach was used for the selection of the survey sample. The primary sampling units (PSUs) selected at the first stage were the enumeration areas (EAs) defined for the census enumeration. A listing of households was conducted in each sample enumeration area, and a sample of households was selected at the second stage.  </p><p>The questionnaires were developed based on the MICS 6 standard questionnaires of UNICEF. It was customized and translated into Nepali, Bhojpuri and Maithili language. After the development of questionnaire, it was pre-tested in Sindhupalchowk and Sindhuli district during March 2019. Based on the results of the pre-test, modifications were made to the wording and translation of the questionnaires. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="FREQ_COLL">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>2024</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REL_CAL_POLICY">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>2024</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_SOURCE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Central Bureau of Statistics</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Central Bureau of Statistics</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="INST_MANDATE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>National official statistical agency that is responsible for conducting, survey and census.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p> It is fundamental violation of human rights if there is marriage of a girl or boy before the age of 18. Child marriage forced to a boy or/and girl to take place of adults accompanied by the responsibilities, which they may not be prepared. It often compromises a girl’s development by resulting in early pregnancy and social isolation, interrupting her schooling, limiting her opportunities for career and vocational advancement and placing her at increased risk of intimate partner violence. In many cultures, girls reaching puberty are expected to assume gender roles associated with womanhood. These include entering a union and becoming a mother. The practice of early/child marriage is a direct manifestation of gender inequality. The issue of child marriage is addressed in a number of international conventions and agreements. Although marriage is not mentioned directly in the Convention on the Rights of the Child, child marriage is linked to other rights – such as the right to freedom of expression, the right to protection from all forms of abuse, and the right to be protected from harmful traditional practices.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>The calculation of this indicator requires to have reliable information on number of women aged 20-24 years who were married or in union before age 15 and total number of women aged 20-24 years in the population. The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents' answers.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Number of women aged 20-24 who were first married or in union before age 15 divided by the total number of women aged 20-24 in the population multiplied by 100.</p><p>Proportion of women aged 20-24 years who were married or in a union before age 15 = Number of women aged 20-24 who were first married or in union before age 15 / Total number of women aged 20-24 years in the population ×100</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_VALIDATION">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Interviewer’s manual in Nepali language was developed which included concepts, definitions, description of each question and fieldwork procedures, etc. to ensure that quality information was collected.</p><p>Team supervisors were responsible for daily monitoring of filed work. It was mandatory to re-interview on one household per cluster. Furthermore, the skills and performance were observed on daily basis.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ADJUSTMENT">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Not applicable</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="IMPUTATION">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Not applicable</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REG_AGG">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Not applicable</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DOC_METHOD">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>It follows the MICS 6 standard questionnaires of UNICEF.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_MGMNT">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Central Bureau of Statistics is the official agency to conducts survey and census. It has trained manpower</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>The questionnaires were developed based on the MICS 6 standard questionnaires of UNICEF. It was customized and translated into Nepali, Bhojpuri and Maithili language. After the development of questionnaire, it was pre-tested in Sindhupalchowk and Sindhuli district during March 2019. Based on the results of the pre-test, modifications were made to the wording and translation of the questionnaires. </p><p>Interviewer’s manual in Nepali language was developed which included concepts, definitions, description of each question and fieldwork procedures, etc. to ensure that quality information was collected.</p><p>Team supervisors were responsible for daily monitoring of filed work. It was mandatory to re-interview on one household per cluster. Furthermore, the skills and performance were observed on daily basis.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSMNT">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>The questionnaires were developed based on the MICS 6 standard questionnaires of UNICEF. It was customized and translated into Nepali, Bhojpuri and Maithili language. After the development of questionnaire, it was pre-tested in Sindhupalchowk and Sindhuli district during March 2019. Based on the results of the pre-test, modifications were made to the wording and translation of the questionnaires. </p><p>Interviewer’s manual in Nepali language was developed which included concepts, definitions, description of each question and fieldwork procedures, etc. to ensure that quality information was collected.</p><p>Team supervisors were responsible for daily monitoring of filed work. It was mandatory to re-interview on one household per cluster. Furthermore, the skills and performance were observed on daily basis.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>The data is available by province and rural and urban.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>It follows MICS 6 guidelines of UNICEF and can be compared across countries.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Central Bureau of Statistics (CBS), 2020. Nepal Multiple Indicator Cluster Survey 2019, Survey Findings Report. Kathmandu, Nepal: Central Bureau of Statistics and UNICEF Nepal.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="6a6bcb5f-cf12-4ce7-9095-ec5db3731a31">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>SP_DYN_MRBF18</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>NP</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>5 Achieve gender equality and empower all women and girls</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>5.3 Eliminate all harmful practices, such as child, early and forced marriage and female genital mutilation</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>5.3.1 Proportion of women aged 20-24 years who were married or in a union before age 15</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_SERIES_DESCR">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>This is under SDG 5</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="META_LAST_UPDATE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>15 December 2020</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_CUSTODIAN_AGENCIES">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>UNICEF</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Central Bureau of Statistics</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Tirtha Chaulagain, Information Officer</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Gender and Social Statistics Section</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_FUNCT">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Tirtha Chaulagain, Information Officer</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>+977 01 4229406</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_MAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Thapathali, Kathmandu, Nepal</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>info@cbs.gov.np</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>This indicator is defined as the percentage of women and men age 20-24 years who were first married or in union before age 15. </p><p>According to UNICEF, child marriage is defined as a marriage of a girl or boy before the age of 18 years. It includes both types of union i.e. formal union (marriage) and informal union. Informal unions means couple living together for some time, intends to have a lasting relationship, but do not have formal civil or religious ceremony.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="UNIT_MEASURE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Percentage</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CLASS_SYSTEM">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Global MICS guidelines by UNICEF</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>An international multi-purpose household survey programme was developed by UNICEF in the 1990s to support countries in collecting internationally comparable data on a wide range of indicators on the situation of children and women, widely known as global MICS programme. It measures key indicators that allows countries to generate data for using in policy making and designing programs, and to monitor progress towards the national goals and global commitments.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COLL_METHOD">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>The sample for the Nepal MICS 2019 was designed to provide estimates for a large number of indicators on the situation of children and women at the national level, for urban and rural areas and seven provinces. The urban and rural areas within each province were identified as the main sampling strata. Kathmandu valley urban is included as a separate stratum as it’s characteristics differ from the rest. Each stratum was a separate domain. The sample of household was selected in two stages. Within each stratum, at the first sampling stage a specified number of census enumerations areas (EA), was selected systematically with probability proportional to size. A household listing was carried out within the selected enumeration areas, identifying the households with and without children under 5 years. In total, 25 households with and without children under 5 years were selected in each sample enumeration area through systematic random sampling method. To ensure strong representativeness of children under 5 in the sample, household with children under 5 years were oversampled. Hence, 13 households with children under 5 years and 12 households without children under 5 years were selected from listing in each enumeration area. A total sample of 512 enumeration area and 12800 households was selected for the survey. As the sample is not self-weighting, sample weights are used for reporting survey results. </p><p>The sampling frame of Nepal is based on the 2011 National population and Housing Census (NPHC). The census frame is a complete list of all census wards created for the 2011 NPHC. At the time of last census, the urban household population constituted 20% of the total household population. According to the latest changes in the administrative structure, following the federalization of the government, the urban household population increased to 65%. CBS updated the population frame to reflect the current status. In designing the sample for the Nepal MICS, it was very useful to review the sample design and results of the MICS conducted in 2014, documented in the final report of that survey. </p><p>Therefore, a multi-stage, stratified cluster sampling approach was used for the selection of the survey sample. The primary sampling units (PSUs) selected at the first stage were the enumeration areas (EAs) defined for the census enumeration. A listing of households was conducted in each sample enumeration area, and a sample of households was selected at the second stage.  </p><p>The questionnaires were developed based on the MICS 6 standard questionnaires of UNICEF. It was customized and translated into Nepali, Bhojpuri and Maithili language. After the development of questionnaire, it was pre-tested in Sindhupalchowk and Sindhuli district during March 2019. Based on the results of the pre-test, modifications were made to the wording and translation of the questionnaires. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="FREQ_COLL">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>2024</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REL_CAL_POLICY">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>2024</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_SOURCE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Central Bureau of Statistics</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Central Bureau of Statistics</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="INST_MANDATE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>National official statistical agency that is responsible for conducting, survey and census.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p> It is fundamental violation of human rights if there is marriage of a girl or boy before the age of 18. Child marriage forced to a boy or/and girl to take place of adults accompanied by the responsibilities, which they may not be prepared. It often compromises a girl’s development by resulting in early pregnancy and social isolation, interrupting her schooling, limiting her opportunities for career and vocational advancement and placing her at increased risk of intimate partner violence. In many cultures, girls reaching puberty are expected to assume gender roles associated with womanhood. These include entering a union and becoming a mother. The practice of early/child marriage is a direct manifestation of gender inequality. The issue of child marriage is addressed in a number of international conventions and agreements. Although marriage is not mentioned directly in the Convention on the Rights of the Child, child marriage is linked to other rights – such as the right to freedom of expression, the right to protection from all forms of abuse, and the right to be protected from harmful traditional practices.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>The calculation of this indicator requires to have reliable information on number of women aged 20-24 years who were married or in union before age 15 and total number of women aged 20-24 years in the population. The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents' answers.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Number of women aged 20-24 who were first married or in union before age 15 divided by the total number of women aged 20-24 in the population multiplied by 100.</p><p>Proportion of women aged 20-24 years who were married or in a union before age 15 = Number of women aged 20-24 who were first married or in union before age 15 / Total number of women aged 20-24 years in the population ×100</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_VALIDATION">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Interviewer’s manual in Nepali language was developed which included concepts, definitions, description of each question and fieldwork procedures, etc. to ensure that quality information was collected.</p><p>Team supervisors were responsible for daily monitoring of filed work. It was mandatory to re-interview on one household per cluster. Furthermore, the skills and performance were observed on daily basis.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ADJUSTMENT">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Not applicable</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="IMPUTATION">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Not applicable</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REG_AGG">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Not applicable</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DOC_METHOD">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>It follows the MICS 6 standard questionnaires of UNICEF.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_MGMNT">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Central Bureau of Statistics is the official agency to conducts survey and census. It has trained manpower</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>The questionnaires were developed based on the MICS 6 standard questionnaires of UNICEF. It was customized and translated into Nepali, Bhojpuri and Maithili language. After the development of questionnaire, it was pre-tested in Sindhupalchowk and Sindhuli district during March 2019. Based on the results of the pre-test, modifications were made to the wording and translation of the questionnaires. </p><p>Interviewer’s manual in Nepali language was developed which included concepts, definitions, description of each question and fieldwork procedures, etc. to ensure that quality information was collected.</p><p>Team supervisors were responsible for daily monitoring of filed work. It was mandatory to re-interview on one household per cluster. Furthermore, the skills and performance were observed on daily basis.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSMNT">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>The questionnaires were developed based on the MICS 6 standard questionnaires of UNICEF. It was customized and translated into Nepali, Bhojpuri and Maithili language. After the development of questionnaire, it was pre-tested in Sindhupalchowk and Sindhuli district during March 2019. Based on the results of the pre-test, modifications were made to the wording and translation of the questionnaires. </p><p>Interviewer’s manual in Nepali language was developed which included concepts, definitions, description of each question and fieldwork procedures, etc. to ensure that quality information was collected.</p><p>Team supervisors were responsible for daily monitoring of filed work. It was mandatory to re-interview on one household per cluster. Furthermore, the skills and performance were observed on daily basis.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>The data is available by province and rural and urban.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>It follows MICS 6 guidelines of UNICEF and can be compared across countries.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Central Bureau of Statistics (CBS), 2020. Nepal Multiple Indicator Cluster Survey 2019, Survey Findings Report. Kathmandu, Nepal: Central Bureau of Statistics and UNICEF Nepal.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+</mes:GenericMetadata>
+        

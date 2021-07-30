@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
+  <mes:Header>
+    <mes:ID>IREF1627657222</mes:ID>
+    <mes:Test>True</mes:Test>
+    <mes:Prepared>2021-07-30T15:00:22</mes:Prepared>
+    <mes:Sender id="open-sdg_sdg-build@1-4-0"/>
+    <mes:Structure structureID="MDS1">
+      <com:Structure>
+        <URN>urn:sdmx:org.sdmx.infomodel.metadatastructure.MetadataStructure=IAEG-SDGs:SDG_MSD(0.3)</URN>
+      </com:Structure>
+    </mes:Structure>
+  </mes:Header>
+  
+  <mes:MetadataSet structureRef="MDS1" setID="3f765038-b266-4c51-9bce-ceba26db4d54">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>VC_VAW_PHYPYV</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>NP</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        
+        <gen:ReportedAttribute id="SDG_GOAL">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>16 Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_TARGET">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>16.2.1 End abuse, exploitation, trafficking and all forms of violence against and torture of children</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>16.2.1.1 Children age 1-14 years who experienced psychological aggression or physical punishment during the last one month) (%)</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_SERIES_DESCR">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>This is under SDG 16</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="META_LAST_UPDATE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>15 December 2020</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SDG_CUSTODIAN_AGENCIES">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>UNICEF</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Central Bureau of Statistics</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Tirtha Chaulagain, Information Officer</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Gender and Social Statistics Section</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_FUNCT">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Tirtha Chaulagain, Information Officer</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>+977 01 4229406</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_MAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Thapathali, Kathmandu, Nepal</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>info@cbs.gov.np</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>This indicator shows the percentage of children aged between 1 to 14 years experienced psychological aggression and / or physical punishment during the last one month). </p><p>The process of teaching child acceptable behaviors and self-control is child discipline. Providing guidance on handling emotions or conflicts in such manners that encourage judgement and responsibility as well as preserve children’s self – esteem, physical and psychological integrity and dignity is a practice of positive parenting. However, caregiver rely on punitive methods to obtain desired behaviors from children too often. Consequently, it inflict short-term and long term harm such as poorer quality of parent-child relationships, mental health problems (such as depression), increased child aggression, antisocial behavior and lower intellectual achievement.</p><p>According to WHO, psychological aggression refers to the action of shouting, yelling or screaming at a child, as well as calling a child offensive names, such as ‘dumb’ or ‘lazy’. With the action intended to cause physical pain or discomfort, but not an injuries is known as physical punishment.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="UNIT_MEASURE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Percentage</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="CLASS_SYSTEM">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Global MICS guidelines by UNICEF</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>An international multi-purpose household survey programme was developed by UNICEF in the 1990s to support countries in collecting internationally comparable data on a wide range of indicators on the situation of children and women, widely known as global MICS programme. It measures key indicators that allows countries to generate data for using in policy making and designing programs, and to monitor progress towards the national goals and global commitments.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COLL_METHOD">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>The sample for the Nepal MICS 2019 was designed to provide estimates for a large number of indicators on the situation of children and women at the national level, for urban and rural areas and seven provinces. The urban and rural areas within each province were identified as the main sampling strata. Kathmandu valley urban is included as a separate stratum as it’s characteristics differ from the rest. Each stratum was a separate domain. The sample of household was selected in two stages. Within each stratum, at the first sampling stage a specified number of census enumerations areas (EA), was selected systematically with probability proportional to size. A household listing was carried out within the selected enumeration areas, identifying the households with and without children under 5 years. In total, 25 households with and without children under 5 were selected in each sample enumeration area through systematic random sampling method. To ensure strong representativeness of children under 5 in the sample, household with children under 5 were oversampled. Where 13 households with children under 5 and 12 households without were selected from listing in each enumeration area. A total sample of 512 enumeration area and 12800 households was selected for the survey. As the sample is not self-weighting, sample weights are used for reporting survey results. </p><p>The sampling frame of Nepal is based on the 2011 National population and Housing Census (NPHC). The census frame is a complete list of all census wards created for the 2011 NPHC. At the time of last census, the urban household population constituted 20% of the total household population. According to the latest changes in the administrative structure, following the federalization of the government, the urban household population increased to 65%. CBS updated the population frame to reflect the current status. In designing the sample for the Nepal MICS, it was very useful to review the sample design and results of the MICS conducted in 2014, documented in the Final Report of that survey. </p><p>Therefore, a multi-stage, stratified cluster sampling approach was used for the selection of the survey sample. The primary sampling units (PSUs) selected at the first stage were the enumeration areas (EAs) defined for the census enumeration. A listing of households was conducted in each sample enumeration area, and a sample of households was selected at the second stage.  </p><p>The questionnaires were developed based on the MICS 6 standard questionnaires of UNICEF. It was customized and translated into Nepali, Bhojpuri and Maithili language. After the development of questionnaire, it was pre-tested in Sindhupalchowk and Sindhuli district during March 2019. Based on the results of the pre-test, modifications were made to the wording and translation of the questionnaires.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="FREQ_COLL">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>2024</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REL_CAL_POLICY">
+          
+          <com:Text xml:lang="en"><![CDATA[<p> 2024</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_SOURCE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Central Bureau of Statistics</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Central Bureau of Statistics</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="INST_MANDATE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>National official statistical agency that is responsible for conducting, survey and census.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="RATIONALE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>The indicator “Children age 1-14 years who experienced psychological aggression or physical punishment during the last one month) (%)” is defined as the proportion of children aged 1-114 years who experienced any physical punishment and/or psychological aggression by caregivers in the past one month. Child discipline is integral part of raising children. However, the use of physical force or verbal intimidation is not only a violation of children’s rights but has been shown to inflict short and long term harmful consequences. Furthermore, it may carry forward into their adult life. </p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>The calculation of this indicator requires to have reliable information on children aged 1-14 years who experienced psychological aggression or physical punishment and number of children age 1-14 years. The quality of such information is heavily dependent on the questionnaire design, the sample size and design and the accuracy of respondents' answers.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_COMP">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Children age 1-14 years who experienced psychological aggression or physical punishment during the last one month = Children between the age group 1-14 years who experience psychological aggression and/or physical punishment /Total number of children aged between 1-14 years×100</p><p>The indicator is computed as the ratio of children age 1-14 years who experienced psychological aggression and/or physical punishment expressed as percentage. </p><p>Hitting and slapping on the face, head or ears, Beating up, that is, hit over and over as hard one could are the severe punishment measured by the indicator.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DATA_VALIDATION">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Interviewer’s manual in Nepali language was developed which included concepts, definitions, description of each question and fieldwork procedures, etc. to ensure that quality information was collected.</p><p>Team supervisors were responsible for daily monitoring of filed work. It was mandatory to re-interview on one household per cluster. Furthermore, the skills and performance were observed on daily basis.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="ADJUSTMENT">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Not applicable</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="IMPUTATION">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Not applicable</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="REG_AGG">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Not applicable</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="DOC_METHOD">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>It follows the MICS 6 standard questionnaires of UNICEF.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_MGMNT">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Central Bureau of Statistics is the official agency to conducts survey and census. It has trained manpower</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>The questionnaires were developed based on the MICS 6 standard questionnaires of UNICEF. It was customized and translated into Nepali, Bhojpuri and Maithili language. After the development of questionnaire, it was pre-tested in Sindhupalchowk and Sindhuli district during March 2019. Based on the results of the pre-test, modifications were made to the wording and translation of the questionnaires. </p><p>Interviewer’s manual in Nepali language was developed which included concepts, definitions, description of each question and fieldwork procedures, etc. to ensure that quality information was collected.</p><p>Team supervisors were responsible for daily monitoring of filed work. It was mandatory to re-interview on one household per cluster. Furthermore, the skills and performance were observed on daily basis.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="QUALITY_ASSMNT">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>The questionnaires were developed based on the MICS 6 standard questionnaires of UNICEF. It was customized and translated into Nepali, Bhojpuri and Maithili language. After the development of questionnaire, it was pre-tested in Sindhupalchowk and Sindhuli district during March 2019. Based on the results of the pre-test, modifications were made to the wording and translation of the questionnaires. </p><p>Interviewer’s manual in Nepali language was developed which included concepts, definitions, description of each question and fieldwork procedures, etc. to ensure that quality information was collected.</p><p>Team supervisors were responsible for daily monitoring of filed work. It was mandatory to re-interview on one household per cluster. Furthermore, the skills and performance were observed on daily basis.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COVERAGE">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>The data is available by province and rural and urban.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="COMPARABILITY">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>It follows MICS 6 guidelines of UNICEF and can be compared across countries.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+        <gen:ReportedAttribute id="OTHER_DOC">
+          
+          <com:Text xml:lang="en"><![CDATA[<p>Central Bureau of Statistics (CBS), 2020. Nepal Multiple Indicator Cluster Survey 2019, Survey Findings Report. Kathmandu, Nepal: Central Bureau of Statistics and UNICEF Nepal.</p>]]></com:Text>
+          
+        </gen:ReportedAttribute>
+        
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  
+</mes:GenericMetadata>
+        
